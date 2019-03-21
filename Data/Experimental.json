@@ -1,0 +1,3218 @@
+[
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.0571,
+   "SE yield": 0.79
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.0572,
+   "SE yield": 0.86
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.0726,
+   "SE yield": 0.93
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.0804,
+   "SE yield": 1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.0957,
+   "SE yield": 1.05
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.1086,
+   "SE yield": 1.13
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.124,
+   "SE yield": 1.19
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.1445,
+   "SE yield": 1.28
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.1726,
+   "SE yield": 1.35
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.2084,
+   "SE yield": 1.4
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.2595,
+   "SE yield": 1.43
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.3106,
+   "SE yield": 1.48
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.359,
+   "SE yield": 1.48
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.4203,
+   "SE yield": 1.48
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.4636,
+   "SE yield": 1.46
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.5325,
+   "SE yield": 1.44
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.5886,
+   "SE yield": 1.43
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.6396,
+   "SE yield": 1.41
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.688,
+   "SE yield": 1.38
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.7568,
+   "SE yield": 1.35
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.8104,
+   "SE yield": 1.34
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.8767,
+   "SE yield": 1.31
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.9251,
+   "SE yield": 1.28
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 0.9684,
+   "SE yield": 1.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.0169,
+   "SE yield": 1.24
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.0755,
+   "SE yield": 1.23
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.124,
+   "SE yield": 1.21
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.1699,
+   "SE yield": 1.2
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.2209,
+   "SE yield": 1.18
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.2719,
+   "SE yield": 1.15
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.3331,
+   "SE yield": 1.13
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.3917,
+   "SE yield": 1.11
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.4426,
+   "SE yield": 1.1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.5013,
+   "SE yield": 1.08
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.5626,
+   "SE yield": 1.05
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.6085,
+   "SE yield": 1.03
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.6722,
+   "SE yield": 1.02
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.7462,
+   "SE yield": 1.01
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.8098,
+   "SE yield": 0.99
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.8609,
+   "SE yield": 0.98
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Annealed, Hilleret, 2000",
+   "E(keV)": 1.9171,
+   "SE yield": 0.98
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 0.5,
+   "SE yield": 2.11
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 0.8,
+   "SE yield": 1.87
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 1,
+   "SE yield": 1.72
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 1.2,
+   "SE yield": 1.47
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 1.4,
+   "SE yield": 1.44
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 1.6,
+   "SE yield": 1.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 1.8,
+   "SE yield": 1.19
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 2,
+   "SE yield": 1.12
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 2.5,
+   "SE yield": 1.04
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 3,
+   "SE yield": 0.89
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 3.5,
+   "SE yield": 0.81
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 4,
+   "SE yield": 0.75
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bongeler, 1993",
+   "E(keV)": 5,
+   "SE yield": 0.64
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 0.1,
+   "SE yield": 0.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 0.19,
+   "SE yield": 0.72
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 0.3,
+   "SE yield": 0.85
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 0.4,
+   "SE yield": 0.93
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 0.6,
+   "SE yield": 1.02
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 0.8,
+   "SE yield": 1.03
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 1.02,
+   "SE yield": 0.99
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 1.5,
+   "SE yield": 0.88
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 2.02,
+   "SE yield": 0.77
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 2.5,
+   "SE yield": 0.7
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 3,
+   "SE yield": 0.61
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bronstein, 1969",
+   "E(keV)": 4,
+   "SE yield": 0.5
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bruining, 1938",
+   "E(keV)": 0.05,
+   "SE yield": 0.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bruining, 1938",
+   "E(keV)": 0.1,
+   "SE yield": 0.7
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bruining, 1938",
+   "E(keV)": 0.2,
+   "SE yield": 1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bruining, 1938",
+   "E(keV)": 0.4,
+   "SE yield": 1.23
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bruining, 1938",
+   "E(keV)": 0.6,
+   "SE yield": 1.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bruining, 1938",
+   "E(keV)": 0.8,
+   "SE yield": 1.28
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Bruining, 1938",
+   "E(keV)": 1,
+   "SE yield": 1.23
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.016,
+   "SE yield": 0.99
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0168,
+   "SE yield": 0.96
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0184,
+   "SE yield": 0.86
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0184,
+   "SE yield": 0.9
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0185,
+   "SE yield": 0.81
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0186,
+   "SE yield": 0.71
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0188,
+   "SE yield": 0.52
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0195,
+   "SE yield": 0.61
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0197,
+   "SE yield": 0.42
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0198,
+   "SE yield": 0.34
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0199,
+   "SE yield": 0.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.02,
+   "SE yield": 0.13
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0215,
+   "SE yield": 0.16
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0222,
+   "SE yield": 0.13
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0317,
+   "SE yield": 0.04
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0325,
+   "SE yield": 0.06
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0332,
+   "SE yield": 0.12
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.037,
+   "SE yield": 0.15
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0386,
+   "SE yield": 0.18
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0478,
+   "SE yield": 0.2
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0548,
+   "SE yield": 0.23
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0648,
+   "SE yield": 0.31
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0724,
+   "SE yield": 0.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.0824,
+   "SE yield": 0.47
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.094,
+   "SE yield": 0.54
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.1032,
+   "SE yield": 0.61
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.1124,
+   "SE yield": 0.67
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.1224,
+   "SE yield": 0.73
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.1332,
+   "SE yield": 0.79
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.1417,
+   "SE yield": 0.84
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.1517,
+   "SE yield": 0.88
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.161,
+   "SE yield": 0.92
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.171,
+   "SE yield": 0.96
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.1811,
+   "SE yield": 0.99
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.1896,
+   "SE yield": 1.02
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.2012,
+   "SE yield": 1.04
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.2089,
+   "SE yield": 1.07
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.2205,
+   "SE yield": 1.09
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.2298,
+   "SE yield": 1.11
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.2414,
+   "SE yield": 1.13
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.2514,
+   "SE yield": 1.15
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.2623,
+   "SE yield": 1.17
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.2739,
+   "SE yield": 1.19
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.2901,
+   "SE yield": 1.21
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.3041,
+   "SE yield": 1.24
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.3234,
+   "SE yield": 1.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.3357,
+   "SE yield": 1.28
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.3513,
+   "SE yield": 1.29
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.3676,
+   "SE yield": 1.3
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.3799,
+   "SE yield": 1.31
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.3954,
+   "SE yield": 1.33
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.4132,
+   "SE yield": 1.34
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.4287,
+   "SE yield": 1.35
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.4458,
+   "SE yield": 1.36
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.4644,
+   "SE yield": 1.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.4791,
+   "SE yield": 1.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.4929,
+   "SE yield": 1.38
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.5078,
+   "SE yield": 1.38
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.6031,
+   "SE yield": 1.4
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.7031,
+   "SE yield": 1.4
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.8008,
+   "SE yield": 1.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.8993,
+   "SE yield": 1.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Cimino, 2014",
+   "E(keV)": 0.9992,
+   "SE yield": 1.35
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 0.1352,
+   "SE yield": 1.19
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 0.6247,
+   "SE yield": 1.32
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 0.9881,
+   "SE yield": 1.42
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 1.4865,
+   "SE yield": 1.49
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 1.8493,
+   "SE yield": 1.52
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 2.12,
+   "SE yield": 1.53
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 2.3709,
+   "SE yield": 1.49
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 2.5541,
+   "SE yield": 1.46
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 2.7037,
+   "SE yield": 1.44
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 3.0172,
+   "SE yield": 1.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 3.2387,
+   "SE yield": 1.3
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 3.518,
+   "SE yield": 1.2
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Ding, 2001",
+   "E(keV)": 3.8695,
+   "SE yield": 1.07
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 0.3859,
+   "SE yield": 0.3
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 0.5009,
+   "SE yield": 0.22
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 0.5876,
+   "SE yield": 0.17
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 0.6888,
+   "SE yield": 0.12
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 0.7883,
+   "SE yield": 0.09
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 0.8913,
+   "SE yield": 0.06
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 0.995,
+   "SE yield": 0.04
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 1.0958,
+   "SE yield": 0.03
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 1.1927,
+   "SE yield": 0.03
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 1.2898,
+   "SE yield": 0.02
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 1.3944,
+   "SE yield": 0.02
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 1.5963,
+   "SE yield": 0.01
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 1.8022,
+   "SE yield": 0.01
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 2.0044,
+   "SE yield": 0.01
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 2.5137,
+   "SE yield": 0.01
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth & Goerke 1930",
+   "E(keV)": 3.0043,
+   "SE yield": 0.01
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.001,
+   "SE yield": 0.42
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.0152,
+   "SE yield": 0.54
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.0261,
+   "SE yield": 0.62
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.041,
+   "SE yield": 0.68
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.0564,
+   "SE yield": 0.72
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.0722,
+   "SE yield": 0.77
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.0898,
+   "SE yield": 0.81
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.1106,
+   "SE yield": 0.85
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.1295,
+   "SE yield": 0.88
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.1503,
+   "SE yield": 0.92
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.173,
+   "SE yield": 0.95
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.1979,
+   "SE yield": 1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.2155,
+   "SE yield": 1.03
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Farnsworth, 1925",
+   "E(keV)": 0.2284,
+   "SE yield": 1.04
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Forman, 1976",
+   "E(keV)": 0.4251,
+   "SE yield": 0.71
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Forman, 1976",
+   "E(keV)": 0.9224,
+   "SE yield": 0.72
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Forman, 1976",
+   "E(keV)": 1.4052,
+   "SE yield": 0.71
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Forman, 1976",
+   "E(keV)": 2.1374,
+   "SE yield": 0.65
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Forman, 1976",
+   "E(keV)": 3.3638,
+   "SE yield": 0.64
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Forman, 1976",
+   "E(keV)": 4.5636,
+   "SE yield": 0.69
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0007,
+   "SE yield": 0.28
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0012,
+   "SE yield": 0.25
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0017,
+   "SE yield": 0.25
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0022,
+   "SE yield": 0.25
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0027,
+   "SE yield": 0.24
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0032,
+   "SE yield": 0.25
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0037,
+   "SE yield": 0.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0042,
+   "SE yield": 0.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0047,
+   "SE yield": 0.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0052,
+   "SE yield": 0.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0057,
+   "SE yield": 0.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0062,
+   "SE yield": 0.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0072,
+   "SE yield": 0.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0077,
+   "SE yield": 0.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0082,
+   "SE yield": 0.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0087,
+   "SE yield": 0.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0092,
+   "SE yield": 0.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Gimple, 1943",
+   "E(keV)": 0.0095,
+   "SE yield": 0.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.0529,
+   "SE yield": 1.46
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.0554,
+   "SE yield": 1.43
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.0606,
+   "SE yield": 1.51
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.0607,
+   "SE yield": 1.57
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.0633,
+   "SE yield": 1.65
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.0711,
+   "SE yield": 1.72
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.0762,
+   "SE yield": 1.77
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.0865,
+   "SE yield": 1.82
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.0917,
+   "SE yield": 1.88
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.1045,
+   "SE yield": 1.96
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.1174,
+   "SE yield": 2.04
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.1328,
+   "SE yield": 2.11
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.1456,
+   "SE yield": 2.18
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.1662,
+   "SE yield": 2.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.1865,
+   "SE yield": 2.32
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.2199,
+   "SE yield": 2.36
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.2582,
+   "SE yield": 2.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.2939,
+   "SE yield": 2.4
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.3194,
+   "SE yield": 2.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.355,
+   "SE yield": 2.35
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.3907,
+   "SE yield": 2.33
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.4188,
+   "SE yield": 2.3
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.4493,
+   "SE yield": 2.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.4876,
+   "SE yield": 2.24
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.5181,
+   "SE yield": 2.22
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.5462,
+   "SE yield": 2.21
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.5716,
+   "SE yield": 2.17
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.6099,
+   "SE yield": 2.13
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.6684,
+   "SE yield": 2.08
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.722,
+   "SE yield": 2.04
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.7704,
+   "SE yield": 2
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.8136,
+   "SE yield": 1.97
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.862,
+   "SE yield": 1.92
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.9055,
+   "SE yield": 1.89
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.9386,
+   "SE yield": 1.86
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 0.9743,
+   "SE yield": 1.85
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.01,
+   "SE yield": 1.82
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.0533,
+   "SE yield": 1.79
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.1068,
+   "SE yield": 1.76
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.1476,
+   "SE yield": 1.72
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.1935,
+   "SE yield": 1.7
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.2445,
+   "SE yield": 1.68
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.3108,
+   "SE yield": 1.64
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.3516,
+   "SE yield": 1.62
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.4102,
+   "SE yield": 1.58
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.4612,
+   "SE yield": 1.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.5096,
+   "SE yield": 1.54
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.5453,
+   "SE yield": 1.52
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.5989,
+   "SE yield": 1.5
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.6524,
+   "SE yield": 1.47
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.7212,
+   "SE yield": 1.45
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.7799,
+   "SE yield": 1.43
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.8283,
+   "SE yield": 1.4
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.8843,
+   "SE yield": 1.38
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.9176,
+   "SE yield": 1.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Hilleret, 2000",
+   "E(keV)": 1.9456,
+   "SE yield": 1.35
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Koshikawa, 1973",
+   "E(keV)": 0.5,
+   "SE yield": 1.41
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Koshikawa, 1973",
+   "E(keV)": 1,
+   "SE yield": 1.33
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Koshikawa, 1973",
+   "E(keV)": 2,
+   "SE yield": 0.99
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Koshikawa, 1973",
+   "E(keV)": 3,
+   "SE yield": 0.81
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Koshikawa, 1973",
+   "E(keV)": 4,
+   "SE yield": 0.72
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Koshikawa, 1973",
+   "E(keV)": 5,
+   "SE yield": 0.65
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Koshikawa, 1973",
+   "E(keV)": 6,
+   "SE yield": 0.6
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Koshikawa, 1973",
+   "E(keV)": 7,
+   "SE yield": 0.57
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Koshikawa, 1973",
+   "E(keV)": 8,
+   "SE yield": 0.54
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Koshikawa, 1973",
+   "E(keV)": 9,
+   "SE yield": 0.52
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Koshikawa, 1973",
+   "E(keV)": 10,
+   "SE yield": 0.5
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Moncrieff, 1976",
+   "E(keV)": 2.5,
+   "SE yield": 0.75
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Moncrieff, 1976",
+   "E(keV)": 5,
+   "SE yield": 0.48
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Moncrieff, 1976",
+   "E(keV)": 10,
+   "SE yield": 0.31
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Moncrieff, 1976",
+   "E(keV)": 15,
+   "SE yield": 0.22
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Moncrieff, 1976",
+   "E(keV)": 20,
+   "SE yield": 0.17
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Moncrieff, 1976",
+   "E(keV)": 25,
+   "SE yield": 0.16
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.0002,
+   "SE yield": 0.09
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.0003,
+   "SE yield": 0.08
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.0008,
+   "SE yield": 0.07
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.0013,
+   "SE yield": 0.07
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.0023,
+   "SE yield": 0.06
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.003,
+   "SE yield": 0.07
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.004,
+   "SE yield": 0.08
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.005,
+   "SE yield": 0.08
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.006,
+   "SE yield": 0.09
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.007,
+   "SE yield": 0.11
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.008,
+   "SE yield": 0.13
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.009,
+   "SE yield": 0.17
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Myers, 1952",
+   "E(keV)": 0.01,
+   "SE yield": 0.22
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.001,
+   "SE yield": 0.42
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.0152,
+   "SE yield": 0.54
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.0261,
+   "SE yield": 0.62
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.041,
+   "SE yield": 0.68
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.0564,
+   "SE yield": 0.72
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.0722,
+   "SE yield": 0.77
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.0898,
+   "SE yield": 0.81
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.1106,
+   "SE yield": 0.85
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.1295,
+   "SE yield": 0.88
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.1503,
+   "SE yield": 0.92
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.173,
+   "SE yield": 0.95
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.1979,
+   "SE yield": 1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.2155,
+   "SE yield": 1.03
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Petry, 1926",
+   "E(keV)": 0.2284,
+   "SE yield": 1.04
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Reimer, 1980",
+   "E(keV)": 1,
+   "SE yield": 1.59
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Reimer, 1980",
+   "E(keV)": 5,
+   "SE yield": 0.69
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Reimer, 1980",
+   "E(keV)": 20,
+   "SE yield": 0.22
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 0.02,
+   "SE yield": 1.12
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 0.06,
+   "SE yield": 1.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 0.1,
+   "SE yield": 1.44
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 0.175,
+   "SE yield": 1.55
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 0.25,
+   "SE yield": 1.57
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 0.3,
+   "SE yield": 1.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 0.4,
+   "SE yield": 1.49
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 0.5,
+   "SE yield": 1.4
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 0.7,
+   "SE yield": 1.28
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 1,
+   "SE yield": 1.1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 1.5,
+   "SE yield": 0.93
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985",
+   "E(keV)": 2,
+   "SE yield": 0.86
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.0425,
+   "SE yield": 1.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.0655,
+   "SE yield": 1.36
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.1135,
+   "SE yield": 1.48
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.1957,
+   "SE yield": 1.58
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.2396,
+   "SE yield": 1.6
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.2905,
+   "SE yield": 1.59
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.3211,
+   "SE yield": 1.58
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.3599,
+   "SE yield": 1.55
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.4001,
+   "SE yield": 1.52
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.4508,
+   "SE yield": 1.49
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.5263,
+   "SE yield": 1.44
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.5899,
+   "SE yield": 1.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.6347,
+   "SE yield": 1.36
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.709,
+   "SE yield": 1.31
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.755,
+   "SE yield": 1.29
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.8506,
+   "SE yield": 1.24
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.8919,
+   "SE yield": 1.22
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 0.9497,
+   "SE yield": 1.19
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.0111,
+   "SE yield": 1.16
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.0867,
+   "SE yield": 1.13
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.1635,
+   "SE yield": 1.1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.2379,
+   "SE yield": 1.07
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.3194,
+   "SE yield": 1.05
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.395,
+   "SE yield": 1.03
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.4554,
+   "SE yield": 1.02
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.5133,
+   "SE yield": 1.01
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.5523,
+   "SE yield": 1.01
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.6268,
+   "SE yield": 1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.7167,
+   "SE yield": 1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.7889,
+   "SE yield": 0.99
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.8445,
+   "SE yield": 0.98
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 1.9699,
+   "SE yield": 0.97
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Septier, 1985, Sputtered",
+   "E(keV)": 2.0278,
+   "SE yield": 0.97
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 0.5,
+   "SE yield": 1.01
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 1,
+   "SE yield": 0.89
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 1.5,
+   "SE yield": 0.73
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 2,
+   "SE yield": 0.59
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 3,
+   "SE yield": 0.42
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 4,
+   "SE yield": 0.33
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 5,
+   "SE yield": 0.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 6,
+   "SE yield": 0.25
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 7,
+   "SE yield": 0.22
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 8,
+   "SE yield": 0.2
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 9,
+   "SE yield": 0.18
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Shimizu, 1974",
+   "E(keV)": 10,
+   "SE yield": 0.17
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 0.049,
+   "SE yield": 0.89
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 0.1006,
+   "SE yield": 1.15
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 0.1496,
+   "SE yield": 1.28
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 0.2029,
+   "SE yield": 1.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 0.2982,
+   "SE yield": 1.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 0.4002,
+   "SE yield": 1.3
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 0.5017,
+   "SE yield": 1.25
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 0.5988,
+   "SE yield": 1.21
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 0.698,
+   "SE yield": 1.17
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 0.8005,
+   "SE yield": 1.13
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 0.9,
+   "SE yield": 1.08
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 1.0005,
+   "SE yield": 1.06
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 5,
+   "SE yield": 0.44
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 6,
+   "SE yield": 0.38
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 7,
+   "SE yield": 0.33
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 8,
+   "SE yield": 0.3
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 9,
+   "SE yield": 0.28
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(native)",
+   "E(keV)": 10,
+   "SE yield": 0.25
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.1008,
+   "SE yield": 0.5736
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.1494,
+   "SE yield": 0.6913
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.2022,
+   "SE yield": 0.7734
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.2506,
+   "SE yield": 0.8493
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.2973,
+   "SE yield": 0.8879
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.3492,
+   "SE yield": 0.9077
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.3982,
+   "SE yield": 0.9234
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.4478,
+   "SE yield": 0.9279
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.4988,
+   "SE yield": 0.9288
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.5482,
+   "SE yield": 0.933
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.5982,
+   "SE yield": 0.9235
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.6498,
+   "SE yield": 0.9228
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.6981,
+   "SE yield": 0.9128
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.7965,
+   "SE yield": 0.8911
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 0.8979,
+   "SE yield": 0.867
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 1.0015,
+   "SE yield": 0.868
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 4,
+   "SE yield": 0.42
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 4.5,
+   "SE yield": 0.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 5,
+   "SE yield": 0.36
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 6,
+   "SE yield": 0.31
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 7,
+   "SE yield": 0.28
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 8,
+   "SE yield": 0.25
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 9,
+   "SE yield": 0.23
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 10,
+   "SE yield": 0.21
+ },
+ {
+   "Material": "Copper",
+   "Reference": "USU (2001)(SEE)",
+   "E(keV)": 12,
+   "SE yield": 0.19
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 1.2711,
+   "SE yield": 1.21
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 1.4897,
+   "SE yield": 1.33
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 1.6837,
+   "SE yield": 1.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 1.8483,
+   "SE yield": 1.43
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 2.0032,
+   "SE yield": 1.46
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 2.1484,
+   "SE yield": 1.48
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 2.2791,
+   "SE yield": 1.49
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 2.4725,
+   "SE yield": 1.5
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 2.6319,
+   "SE yield": 1.5
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 2.7912,
+   "SE yield": 1.49
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 2.9362,
+   "SE yield": 1.48
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 3.0712,
+   "SE yield": 1.45
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 3.1773,
+   "SE yield": 1.43
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 3.3414,
+   "SE yield": 1.41
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 3.5487,
+   "SE yield": 1.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 3.7367,
+   "SE yield": 1.32
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 3.8958,
+   "SE yield": 1.28
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 4.1607,
+   "SE yield": 1.2
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 4.4015,
+   "SE yield": 1.12
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 4.5845,
+   "SE yield": 1.06
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 4.753,
+   "SE yield": 1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 4.9022,
+   "SE yield": 0.95
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Cleaned (2008)",
+   "E(keV)": 5.0322,
+   "SE yield": 0.89
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 1.2803,
+   "SE yield": 1.65
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 1.5026,
+   "SE yield": 1.64
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 1.7002,
+   "SE yield": 1.59
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 1.869,
+   "SE yield": 1.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 2.0089,
+   "SE yield": 1.54
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 2.1489,
+   "SE yield": 1.53
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 2.3611,
+   "SE yield": 1.48
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 2.4768,
+   "SE yield": 1.46
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 2.7226,
+   "SE yield": 1.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 2.9298,
+   "SE yield": 1.34
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 3.1709,
+   "SE yield": 1.28
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 3.5276,
+   "SE yield": 1.19
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 3.7444,
+   "SE yield": 1.13
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 3.913,
+   "SE yield": 1.08
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 4.1781,
+   "SE yield": 1.01
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 4.3996,
+   "SE yield": 0.94
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 4.5779,
+   "SE yield": 0.88
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 4.7417,
+   "SE yield": 0.84
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 4.8862,
+   "SE yield": 0.8
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Walker, Native (2008)",
+   "E(keV)": 5.036,
+   "SE yield": 0.79
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.0001,
+   "SE yield": 0.65
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.0253,
+   "SE yield": 0.75
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.0381,
+   "SE yield": 0.85
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.0495,
+   "SE yield": 0.94
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.0752,
+   "SE yield": 1.06
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.1013,
+   "SE yield": 1.15
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.1269,
+   "SE yield": 1.23
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.1773,
+   "SE yield": 1.33
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.2277,
+   "SE yield": 1.41
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.2535,
+   "SE yield": 1.45
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.2788,
+   "SE yield": 1.47
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.3023,
+   "SE yield": 1.49
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.3299,
+   "SE yield": 1.51
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.3787,
+   "SE yield": 1.53
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.4067,
+   "SE yield": 1.55
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.4421,
+   "SE yield": 1.55
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.4719,
+   "SE yield": 1.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.4903,
+   "SE yield": 1.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.5325,
+   "SE yield": 1.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.5582,
+   "SE yield": 1.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.5922,
+   "SE yield": 1.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.6192,
+   "SE yield": 1.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.6458,
+   "SE yield": 1.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.6848,
+   "SE yield": 1.56
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.7357,
+   "SE yield": 1.55
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.7866,
+   "SE yield": 1.54
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.8283,
+   "SE yield": 1.53
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.8779,
+   "SE yield": 1.52
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.9187,
+   "SE yield": 1.51
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.9581,
+   "SE yield": 1.5
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 0.9998,
+   "SE yield": 1.49
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 1.0406,
+   "SE yield": 1.48
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 1.0887,
+   "SE yield": 1.47
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 1.141,
+   "SE yield": 1.46
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 1.1933,
+   "SE yield": 1.45
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 1.2588,
+   "SE yield": 1.43
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 1.3193,
+   "SE yield": 1.42
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 1.3707,
+   "SE yield": 1.41
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 1.4234,
+   "SE yield": 1.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Native, 1936",
+   "E(keV)": 1.4596,
+   "SE yield": 1.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.0168,
+   "SE yield": 0.6
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.0352,
+   "SE yield": 0.7
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.0652,
+   "SE yield": 0.85
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.0922,
+   "SE yield": 0.96
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.1174,
+   "SE yield": 1.05
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.1522,
+   "SE yield": 1.14
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.1781,
+   "SE yield": 1.2
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.2022,
+   "SE yield": 1.25
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.2193,
+   "SE yield": 1.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.2372,
+   "SE yield": 1.29
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.264,
+   "SE yield": 1.32
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.287,
+   "SE yield": 1.34
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.3174,
+   "SE yield": 1.36
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.3496,
+   "SE yield": 1.38
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.3813,
+   "SE yield": 1.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.4249,
+   "SE yield": 1.4
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.4603,
+   "SE yield": 1.41
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.5007,
+   "SE yield": 1.41
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.5333,
+   "SE yield": 1.41
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.5695,
+   "SE yield": 1.41
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.6167,
+   "SE yield": 1.4
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.6576,
+   "SE yield": 1.4
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.6952,
+   "SE yield": 1.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.7327,
+   "SE yield": 1.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.7635,
+   "SE yield": 1.38
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.824,
+   "SE yield": 1.37
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.8616,
+   "SE yield": 1.36
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.9166,
+   "SE yield": 1.35
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 0.9716,
+   "SE yield": 1.34
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 1.0147,
+   "SE yield": 1.34
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 1.0464,
+   "SE yield": 1.33
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 1.089,
+   "SE yield": 1.32
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 1.133,
+   "SE yield": 1.31
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 1.1802,
+   "SE yield": 1.3
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 1.2353,
+   "SE yield": 1.29
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 1.2765,
+   "SE yield": 1.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 1.3136,
+   "SE yield": 1.27
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 1.3549,
+   "SE yield": 1.26
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 1.3994,
+   "SE yield": 1.24
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Warnecke Rampup, 1936",
+   "E(keV)": 1.447,
+   "SE yield": 1.24
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Whetten, 1962",
+   "E(keV)": 0.2,
+   "SE yield": 1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Whetten, 1962",
+   "E(keV)": 0.6,
+   "SE yield": 1.3
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Whetten, 1962",
+   "E(keV)": 1.5,
+   "SE yield": 1
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Wittry, 1966",
+   "E(keV)": 5,
+   "SE yield": 0.29
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Wittry, 1966",
+   "E(keV)": 5,
+   "SE yield": 0.39
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Wittry, 1966",
+   "E(keV)": 30,
+   "SE yield": 0.11
+ },
+ {
+   "Material": "Copper",
+   "Reference": "Wittry, 1966",
+   "E(keV)": 30,
+   "SE yield": 0.12
+ }
+]
