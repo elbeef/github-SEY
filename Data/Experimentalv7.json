@@ -3204,33 +3204,6 @@
     "Surface Contamination (C,O,Cont,U)": "O"
   },
   {
-    "": 365,
-    "Material": "Aluminum",
-    "Reference": "Warnecke Annealed 440C 1936",
-    "E(keV)": -0.0377,
-    "SE.yield": 1.06,
-    "Surface Topography (S,R,U)": "U",
-    "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
-    "": 366,
-    "Material": "Aluminum",
-    "Reference": "Warnecke Annealed 440C 1936",
-    "E(keV)": -0.0236,
-    "SE.yield": 1.22,
-    "Surface Topography (S,R,U)": "R",
-    "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
-    "": 367,
-    "Material": "Aluminum",
-    "Reference": "Warnecke Annealed 440C 1936",
-    "E(keV)": -0.0167,
-    "SE.yield": 1.38,
-    "Surface Topography (S,R,U)": "R",
-    "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
     "": 368,
     "Material": "Aluminum",
     "Reference": "Warnecke Annealed 440C 1936",
@@ -4210,51 +4183,6 @@
     "SE.yield": 1.75,
     "Surface Topography (S,R,U)": "S",
     "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
-    "": 477,
-    "Material": "Aluminum",
-    "Reference": "Warnecke Native 1936",
-    "E(keV)": -0.0474,
-    "SE.yield": 1.24,
-    "Surface Topography (S,R,U)": "R",
-    "Surface Contamination (C,O,Cont,U)": "Cont"
-  },
-  {
-    "": 478,
-    "Material": "Aluminum",
-    "Reference": "Warnecke Native 1936",
-    "E(keV)": -0.0387,
-    "SE.yield": 1.32,
-    "Surface Topography (S,R,U)": "R",
-    "Surface Contamination (C,O,Cont,U)": "Cont"
-  },
-  {
-    "": 479,
-    "Material": "Aluminum",
-    "Reference": "Warnecke Native 1936",
-    "E(keV)": -0.0281,
-    "SE.yield": 1.39,
-    "Surface Topography (S,R,U)": "R",
-    "Surface Contamination (C,O,Cont,U)": "Cont"
-  },
-  {
-    "": 480,
-    "Material": "Aluminum",
-    "Reference": "Warnecke Native 1936",
-    "E(keV)": -0.0153,
-    "SE.yield": 1.46,
-    "Surface Topography (S,R,U)": "R",
-    "Surface Contamination (C,O,Cont,U)": "Cont"
-  },
-  {
-    "": 481,
-    "Material": "Aluminum",
-    "Reference": "Warnecke Native 1936",
-    "E(keV)": -0.0088,
-    "SE.yield": 1.54,
-    "Surface Topography (S,R,U)": "R",
-    "Surface Contamination (C,O,Cont,U)": "Cont"
   },
   {
     "": 482,
