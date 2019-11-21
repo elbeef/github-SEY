@@ -1134,78 +1134,6 @@
     "Surface Contamination (C,O,Cont,U)": "O"
   },
   {
-    "": 127,
-    "Material": "Aluminum",
-    "Reference": "NASCAP",
-    "E(keV)": 0.0177,
-    "SE.yield": 0.22,
-    "Surface Topography (S,R,U)": "U",
-    "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
-    "": 128,
-    "Material": "Aluminum",
-    "Reference": "NASCAP",
-    "E(keV)": 0.0486,
-    "SE.yield": 0.5,
-    "Surface Topography (S,R,U)": "U",
-    "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
-    "": 129,
-    "Material": "Aluminum",
-    "Reference": "NASCAP",
-    "E(keV)": 0.0988,
-    "SE.yield": 0.74,
-    "Surface Topography (S,R,U)": "U",
-    "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
-    "": 130,
-    "Material": "Aluminum",
-    "Reference": "NASCAP",
-    "E(keV)": 0.2009,
-    "SE.yield": 0.94,
-    "Surface Topography (S,R,U)": "U",
-    "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
-    "": 131,
-    "Material": "Aluminum",
-    "Reference": "NASCAP",
-    "E(keV)": 0.3007,
-    "SE.yield": 0.98,
-    "Surface Topography (S,R,U)": "U",
-    "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
-    "": 132,
-    "Material": "Aluminum",
-    "Reference": "NASCAP",
-    "E(keV)": 0.4013,
-    "SE.yield": 0.95,
-    "Surface Topography (S,R,U)": "U",
-    "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
-    "": 133,
-    "Material": "Aluminum",
-    "Reference": "NASCAP",
-    "E(keV)": 0.5009,
-    "SE.yield": 0.92,
-    "Surface Topography (S,R,U)": "U",
-    "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
-    "": 134,
-    "Material": "Aluminum",
-    "Reference": "NASCAP",
-    "E(keV)": 0.601,
-    "SE.yield": 0.88,
-    "Surface Topography (S,R,U)": "U",
-    "Surface Contamination (C,O,Cont,U)": "C"
-  },
-  {
     "": 135,
     "Material": "Aluminum",
     "Reference": "Prokopenko elemental 1980",
@@ -5528,7 +5456,7 @@
   {
     "": 615,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.05,
     "SE.yield": 0.76,
     "Surface Topography (S,R,U)": "U",
@@ -5537,7 +5465,7 @@
   {
     "": 616,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.1,
     "SE.yield": 1.09,
     "Surface Topography (S,R,U)": "U",
@@ -5546,7 +5474,7 @@
   {
     "": 617,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.2,
     "SE.yield": 1.2,
     "Surface Topography (S,R,U)": "U",
@@ -5555,7 +5483,7 @@
   {
     "": 618,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.3,
     "SE.yield": 1.37,
     "Surface Topography (S,R,U)": "U",
@@ -5564,7 +5492,7 @@
   {
     "": 619,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.4,
     "SE.yield": 1.51,
     "Surface Topography (S,R,U)": "U",
@@ -5573,7 +5501,7 @@
   {
     "": 620,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.5,
     "SE.yield": 1.42,
     "Surface Topography (S,R,U)": "U",
@@ -5582,7 +5510,7 @@
   {
     "": 621,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.6,
     "SE.yield": 1.38,
     "Surface Topography (S,R,U)": "U",
@@ -5591,7 +5519,7 @@
   {
     "": 622,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.7,
     "SE.yield": 1.26,
     "Surface Topography (S,R,U)": "U",
@@ -5600,7 +5528,7 @@
   {
     "": 623,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.8,
     "SE.yield": 1.16,
     "Surface Topography (S,R,U)": "U",
@@ -5609,7 +5537,7 @@
   {
     "": 624,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.9,
     "SE.yield": 1.1,
     "Surface Topography (S,R,U)": "U",
@@ -5618,7 +5546,7 @@
   {
     "": 625,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 1,
     "SE.yield": 1.01,
     "Surface Topography (S,R,U)": "U",
@@ -5627,7 +5555,7 @@
   {
     "": 626,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 4.2,
     "SE.yield": 0.12,
     "Surface Topography (S,R,U)": "U",
@@ -5636,7 +5564,7 @@
   {
     "": 627,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 5,
     "SE.yield": 0.11,
     "Surface Topography (S,R,U)": "U",
@@ -5645,7 +5573,7 @@
   {
     "": 628,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 6,
     "SE.yield": 0.11,
     "Surface Topography (S,R,U)": "U",
@@ -5654,7 +5582,7 @@
   {
     "": 629,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 8,
     "SE.yield": 0.08,
     "Surface Topography (S,R,U)": "U",
@@ -5663,7 +5591,7 @@
   {
     "": 630,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 10,
     "SE.yield": 0.06,
     "Surface Topography (S,R,U)": "U",
@@ -5672,7 +5600,7 @@
   {
     "": 631,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 12,
     "SE.yield": 0.06,
     "Surface Topography (S,R,U)": "U",
@@ -5681,7 +5609,7 @@
   {
     "": 632,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 14,
     "SE.yield": 0.06,
     "Surface Topography (S,R,U)": "U",
@@ -5690,7 +5618,7 @@
   {
     "": 633,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 16,
     "SE.yield": 0.05,
     "Surface Topography (S,R,U)": "U",
@@ -5699,7 +5627,7 @@
   {
     "": 634,
     "Material": "Beryllium",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 18,
     "SE.yield": 0.04,
     "Surface Topography (S,R,U)": "U",
@@ -22160,7 +22088,7 @@
   {
     "": 2483,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.2,
     "SE.yield": 0.77,
     "Surface Topography (S,R,U)": "S",
@@ -22169,7 +22097,7 @@
   {
     "": 2484,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.25,
     "SE.yield": 0.77,
     "Surface Topography (S,R,U)": "S",
@@ -22178,7 +22106,7 @@
   {
     "": 2485,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.3,
     "SE.yield": 0.77,
     "Surface Topography (S,R,U)": "S",
@@ -22187,7 +22115,7 @@
   {
     "": 2486,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.35,
     "SE.yield": 0.75,
     "Surface Topography (S,R,U)": "S",
@@ -22196,7 +22124,7 @@
   {
     "": 2487,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.4,
     "SE.yield": 0.75,
     "Surface Topography (S,R,U)": "S",
@@ -22205,7 +22133,7 @@
   {
     "": 2488,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.45,
     "SE.yield": 0.74,
     "Surface Topography (S,R,U)": "S",
@@ -22214,7 +22142,7 @@
   {
     "": 2489,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.5,
     "SE.yield": 0.74,
     "Surface Topography (S,R,U)": "S",
@@ -22223,7 +22151,7 @@
   {
     "": 2490,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.6,
     "SE.yield": 0.71,
     "Surface Topography (S,R,U)": "S",
@@ -22232,7 +22160,7 @@
   {
     "": 2491,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.7,
     "SE.yield": 0.72,
     "Surface Topography (S,R,U)": "S",
@@ -22241,7 +22169,7 @@
   {
     "": 2492,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.8,
     "SE.yield": 0.68,
     "Surface Topography (S,R,U)": "S",
@@ -22250,7 +22178,7 @@
   {
     "": 2493,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 0.9,
     "SE.yield": 0.69,
     "Surface Topography (S,R,U)": "S",
@@ -22259,7 +22187,7 @@
   {
     "": 2494,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 1,
     "SE.yield": 0.69,
     "Surface Topography (S,R,U)": "S",
@@ -22268,7 +22196,7 @@
   {
     "": 2495,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 1.2,
     "SE.yield": 0.66,
     "Surface Topography (S,R,U)": "S",
@@ -22277,7 +22205,7 @@
   {
     "": 2496,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 1.5,
     "SE.yield": 0.62,
     "Surface Topography (S,R,U)": "S",
@@ -22286,7 +22214,7 @@
   {
     "": 2497,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 2,
     "SE.yield": 0.53,
     "Surface Topography (S,R,U)": "S",
@@ -22295,7 +22223,7 @@
   {
     "": 2498,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 3,
     "SE.yield": 0.43,
     "Surface Topography (S,R,U)": "S",
@@ -22304,7 +22232,7 @@
   {
     "": 2499,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 4,
     "SE.yield": 0.35,
     "Surface Topography (S,R,U)": "S",
@@ -22313,7 +22241,7 @@
   {
     "": 2500,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 4,
     "SE.yield": 0.47,
     "Surface Topography (S,R,U)": "S",
@@ -22322,7 +22250,7 @@
   {
     "": 2501,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 5,
     "SE.yield": 0.31,
     "Surface Topography (S,R,U)": "S",
@@ -22331,7 +22259,7 @@
   {
     "": 2502,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 6,
     "SE.yield": 0.58,
     "Surface Topography (S,R,U)": "S",
@@ -22340,7 +22268,7 @@
   {
     "": 2503,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 8,
     "SE.yield": 0.53,
     "Surface Topography (S,R,U)": "S",
@@ -22349,7 +22277,7 @@
   {
     "": 2504,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 10,
     "SE.yield": 0.49,
     "Surface Topography (S,R,U)": "S",
@@ -22358,7 +22286,7 @@
   {
     "": 2505,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 12,
     "SE.yield": 0.47,
     "Surface Topography (S,R,U)": "S",
@@ -22367,7 +22295,7 @@
   {
     "": 2506,
     "Material": "Molybdenum",
-    "Reference": "USU 2001",
+    "Reference": "DENNISON 2007",
     "E(keV)": 14,
     "SE.yield": 0.45,
     "Surface Topography (S,R,U)": "S",
