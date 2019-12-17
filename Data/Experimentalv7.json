@@ -20558,7 +20558,7 @@
   {
     "": 2285,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.112,
     "SE.yield": 0.95,
     "Surface Topography (S,R,U)": "U",
@@ -20567,7 +20567,7 @@
   {
     "": 2286,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.159,
     "SE.yield": 0.89,
     "Surface Topography (S,R,U)": "U",
@@ -20576,7 +20576,7 @@
   {
     "": 2287,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.199,
     "SE.yield": 0.86,
     "Surface Topography (S,R,U)": "U",
@@ -20585,7 +20585,7 @@
   {
     "": 2288,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.251,
     "SE.yield": 0.79,
     "Surface Topography (S,R,U)": "U",
@@ -20594,7 +20594,7 @@
   {
     "": 2289,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.291,
     "SE.yield": 0.75,
     "Surface Topography (S,R,U)": "U",
@@ -20603,7 +20603,7 @@
   {
     "": 2290,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.344,
     "SE.yield": 0.73,
     "Surface Topography (S,R,U)": "U",
@@ -20612,7 +20612,7 @@
   {
     "": 2291,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.391,
     "SE.yield": 0.66,
     "Surface Topography (S,R,U)": "U",
@@ -20621,7 +20621,7 @@
   {
     "": 2292,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.49,
     "SE.yield": 0.61,
     "Surface Topography (S,R,U)": "U",
@@ -20630,7 +20630,7 @@
   {
     "": 2293,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.53,
     "SE.yield": 0.89,
     "Surface Topography (S,R,U)": "U",
@@ -20639,7 +20639,7 @@
   {
     "": 2294,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.596,
     "SE.yield": 0.55,
     "Surface Topography (S,R,U)": "U",
@@ -20648,7 +20648,7 @@
   {
     "": 2295,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.695,
     "SE.yield": 0.52,
     "Surface Topography (S,R,U)": "U",
@@ -20657,7 +20657,7 @@
   {
     "": 2296,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.795,
     "SE.yield": 0.51,
     "Surface Topography (S,R,U)": "U",
@@ -20666,7 +20666,7 @@
   {
     "": 2297,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.795,
     "SE.yield": 0.93,
     "Surface Topography (S,R,U)": "U",
@@ -20675,7 +20675,7 @@
   {
     "": 2298,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.887,
     "SE.yield": 0.5,
     "Surface Topography (S,R,U)": "U",
@@ -20684,7 +20684,7 @@
   {
     "": 2299,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 0.993,
     "SE.yield": 0.48,
     "Surface Topography (S,R,U)": "U",
@@ -20693,7 +20693,7 @@
   {
     "": 2300,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 1.099,
     "SE.yield": 0.46,
     "Surface Topography (S,R,U)": "U",
@@ -20702,7 +20702,7 @@
   {
     "": 2301,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 1.205,
     "SE.yield": 0.46,
     "Surface Topography (S,R,U)": "U",
@@ -20711,7 +20711,7 @@
   {
     "": 2302,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 1.364,
     "SE.yield": 0.43,
     "Surface Topography (S,R,U)": "U",
@@ -20720,7 +20720,7 @@
   {
     "": 2303,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 1.444,
     "SE.yield": 0.43,
     "Surface Topography (S,R,U)": "U",
@@ -20729,7 +20729,7 @@
   {
     "": 2304,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 1.55,
     "SE.yield": 0.43,
     "Surface Topography (S,R,U)": "U",
@@ -20738,7 +20738,7 @@
   {
     "": 2305,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 1.655,
     "SE.yield": 0.43,
     "Surface Topography (S,R,U)": "U",
@@ -20747,7 +20747,7 @@
   {
     "": 2306,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 1.709,
     "SE.yield": 0.41,
     "Surface Topography (S,R,U)": "U",
@@ -20756,7 +20756,7 @@
   {
     "": 2307,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 1.801,
     "SE.yield": 0.41,
     "Surface Topography (S,R,U)": "U",
@@ -20765,7 +20765,7 @@
   {
     "": 2308,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 1.854,
     "SE.yield": 0.41,
     "Surface Topography (S,R,U)": "U",
@@ -20774,7 +20774,7 @@
   {
     "": 2309,
     "Material": "Hydrogen",
-    "Reference": "hilleret 2000",
+    "Reference": "Hilleret 2000",
     "E(keV)": 1.907,
     "SE.yield": 0.41,
     "Surface Topography (S,R,U)": "U",
@@ -27235,8 +27235,8 @@
   },
   {
     "": 3027,
-    "Material": "Silicon (Amorphous)",
-    "Reference": "Joy, 1996",
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
     "E(keV)": 0.5,
     "SE.yield": 1.42,
     "Surface Topography (S,R,U)": "U",
@@ -27244,8 +27244,8 @@
   },
   {
     "": 3028,
-    "Material": "Silicon (Amorphous)",
-    "Reference": "Joy, 1996",
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
     "E(keV)": 0.7,
     "SE.yield": 1.22,
     "Surface Topography (S,R,U)": "U",
@@ -27253,8 +27253,8 @@
   },
   {
     "": 3029,
-    "Material": "Silicon (Amorphous)",
-    "Reference": "Joy, 1996",
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
     "E(keV)": 1,
     "SE.yield": 0.98,
     "Surface Topography (S,R,U)": "U",
@@ -27262,8 +27262,8 @@
   },
   {
     "": 3030,
-    "Material": "Silicon (Amorphous)",
-    "Reference": "Joy, 1996",
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
     "E(keV)": 1.5,
     "SE.yield": 0.79,
     "Surface Topography (S,R,U)": "U",
@@ -27271,8 +27271,8 @@
   },
   {
     "": 3031,
-    "Material": "Silicon (Amorphous)",
-    "Reference": "Joy, 1996",
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
     "E(keV)": 2,
     "SE.yield": 0.64,
     "Surface Topography (S,R,U)": "U",
@@ -27280,8 +27280,8 @@
   },
   {
     "": 3032,
-    "Material": "Silicon (Amorphous)",
-    "Reference": "Joy, 1996",
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
     "E(keV)": 3,
     "SE.yield": 0.53,
     "Surface Topography (S,R,U)": "U",
@@ -27289,8 +27289,8 @@
   },
   {
     "": 3033,
-    "Material": "Silicon (Amorphous)",
-    "Reference": "Joy, 1996",
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
     "E(keV)": 4,
     "SE.yield": 0.44,
     "Surface Topography (S,R,U)": "U",
@@ -27298,8 +27298,8 @@
   },
   {
     "": 3034,
-    "Material": "Silicon (Amorphous)",
-    "Reference": "Joy, 1996",
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
     "E(keV)": 5,
     "SE.yield": 0.367,
     "Surface Topography (S,R,U)": "U",
@@ -27307,8 +27307,8 @@
   },
   {
     "": 3035,
-    "Material": "Silicon (Amorphous)",
-    "Reference": "Joy, 1996",
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
     "E(keV)": 7,
     "SE.yield": 0.31,
     "Surface Topography (S,R,U)": "U",
@@ -27316,8 +27316,8 @@
   },
   {
     "": 3036,
-    "Material": "Silicon (Amorphous)",
-    "Reference": "Joy, 1996",
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
     "E(keV)": 10,
     "SE.yield": 0.185,
     "Surface Topography (S,R,U)": "U",
