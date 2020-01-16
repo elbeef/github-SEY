@@ -137,7 +137,7 @@
   {
     "": 16,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2001",
+    "Reference": "Baglin, 2000",
     "E(keV)": 0.550874721,
     "SE.yield": 2.981565769,
     "Surface Topography (S,R,U)": "R",
@@ -146,7 +146,7 @@
   {
     "": 17,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2002",
+    "Reference": "Baglin, 2000",
     "E(keV)": 0.596100468,
     "SE.yield": 2.9063266,
     "Surface Topography (S,R,U)": "R",
@@ -155,7 +155,7 @@
   {
     "": 18,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2003",
+    "Reference": "Baglin, 2000",
     "E(keV)": 0.651851726,
     "SE.yield": 2.776085452,
     "Surface Topography (S,R,U)": "R",
@@ -164,7 +164,7 @@
   {
     "": 19,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2004",
+    "Reference": "Baglin, 2000",
     "E(keV)": 0.710964358,
     "SE.yield": 2.684709005,
     "Surface Topography (S,R,U)": "R",
@@ -173,7 +173,7 @@
   {
     "": 20,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2005",
+    "Reference": "Baglin, 2000",
     "E(keV)": 0.752828731,
     "SE.yield": 2.569605135,
     "Surface Topography (S,R,U)": "R",
@@ -182,7 +182,7 @@
   {
     "": 21,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2006",
+    "Reference": "Baglin, 2000",
     "E(keV)": 0.801483758,
     "SE.yield": 2.506026654,
     "Surface Topography (S,R,U)": "R",
@@ -191,7 +191,7 @@
   {
     "": 22,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2007",
+    "Reference": "Baglin, 2000",
     "E(keV)": 0.85363597,
     "SE.yield": 2.42748485,
     "Surface Topography (S,R,U)": "R",
@@ -200,7 +200,7 @@
   {
     "": 23,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2008",
+    "Reference": "Baglin, 2000",
     "E(keV)": 0.905822136,
     "SE.yield": 2.333231039,
     "Surface Topography (S,R,U)": "R",
@@ -209,7 +209,7 @@
   {
     "": 24,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2009",
+    "Reference": "Baglin, 2000",
     "E(keV)": 0.954511115,
     "SE.yield": 2.256220552,
     "Surface Topography (S,R,U)": "R",
@@ -218,7 +218,7 @@
   {
     "": 25,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2010",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.006697281,
     "SE.yield": 2.165626741,
     "Surface Topography (S,R,U)": "R",
@@ -227,7 +227,7 @@
   {
     "": 26,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2011",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.051821168,
     "SE.yield": 2.127183591,
     "Surface Topography (S,R,U)": "R",
@@ -236,7 +236,7 @@
   {
     "": 27,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2012",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.103973381,
     "SE.yield": 2.048581786,
     "Surface Topography (S,R,U)": "R",
@@ -245,7 +245,7 @@
   {
     "": 28,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2013",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.149199127,
     "SE.yield": 1.970002617,
     "Surface Topography (S,R,U)": "R",
@@ -254,7 +254,7 @@
   {
     "": 29,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2014",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.201283433,
     "SE.yield": 1.917544825,
     "Surface Topography (S,R,U)": "R",
@@ -263,7 +263,7 @@
   {
     "": 30,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2015",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.260260252,
     "SE.yield": 1.878136404,
     "Surface Topography (S,R,U)": "R",
@@ -272,7 +272,7 @@
   {
     "": 31,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2016",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.298593486,
     "SE.yield": 1.786507864,
     "Surface Topography (S,R,U)": "R",
@@ -281,7 +281,7 @@
   {
     "": 32,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2017",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.350575932,
     "SE.yield": 1.773266092,
     "Surface Topography (S,R,U)": "R",
@@ -290,7 +290,7 @@
   {
     "": 33,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2018",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.399197005,
     "SE.yield": 1.720819618,
     "Surface Topography (S,R,U)": "R",
@@ -299,7 +299,7 @@
   {
     "": 34,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2019",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.451247358,
     "SE.yield": 1.681433832,
     "Surface Topography (S,R,U)": "R",
@@ -308,7 +308,7 @@
   {
     "": 35,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2020",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.503331664,
     "SE.yield": 1.62897604,
     "Surface Topography (S,R,U)": "R",
@@ -317,7 +317,7 @@
   {
     "": 36,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2021",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.548455551,
     "SE.yield": 1.58961289,
     "Surface Topography (S,R,U)": "R",
@@ -326,7 +326,7 @@
   {
     "": 37,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2022",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.600539857,
     "SE.yield": 1.537155099,
     "Surface Topography (S,R,U)": "R",
@@ -335,7 +335,7 @@
   {
     "": 38,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2023",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.645595837,
     "SE.yield": 1.523935961,
     "Surface Topography (S,R,U)": "R",
@@ -344,7 +344,7 @@
   {
     "": 39,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2024",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.701143376,
     "SE.yield": 1.471466852,
     "Surface Topography (S,R,U)": "R",
@@ -353,7 +353,7 @@
   {
     "": 40,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2025",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.74280403,
     "SE.yield": 1.43211502,
     "Surface Topography (S,R,U)": "R",
@@ -362,7 +362,7 @@
   {
     "": 41,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2026",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.801814802,
     "SE.yield": 1.379634592,
     "Surface Topography (S,R,U)": "R",
@@ -371,7 +371,7 @@
   {
     "": 42,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2027",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.843441503,
     "SE.yield": 1.353354766,
     "Surface Topography (S,R,U)": "R",
@@ -380,7 +380,7 @@
   {
     "": 43,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2028",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.895389996,
     "SE.yield": 1.353185,
     "Surface Topography (S,R,U)": "R",
@@ -389,7 +389,7 @@
   {
     "": 44,
     "Material": "Aluminum",
-    "Reference": "Baglin, 2029",
+    "Reference": "Baglin, 2000",
     "E(keV)": 1.954434721,
     "SE.yield": 1.287632566,
     "Surface Topography (S,R,U)": "R",
