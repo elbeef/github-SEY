@@ -1,4 +1,93 @@
 [
+  
+{
+“”: 4003,
+“Reference”: “”,
+“E(keV)”: 2.5,
+“SE.yield”:,
+“Surface Topography (SRU)”: “”,
+“Surface Contamination (COContU)”: “”
+},
+{
+“”: 4004,
+“Reference”: “”,
+“E(keV)”: 3.5,
+“SE.yield”:,
+“Surface Topography (SRU)”: “”,
+“Surface Contamination (COContU)”: “”
+},
+{
+“”: 4005,
+“Reference”: “”,
+“E(keV)”: 4.5,
+“SE.yield”:,
+“Surface Topography (SRU)”: “”,
+“Surface Contamination (COContU)”: “”
+},
+{
+“”: 4006,
+“Reference”: “”,
+“E(keV)”: 5.5,
+“SE.yield”:,
+“Surface Topography (SRU)”: “”,
+“Surface Contamination (COContU)”: “”
+},
+{
+“”: 4007,
+“Reference”: “”,
+“E(keV)”: 6.5,
+“SE.yield”:,
+“Surface Topography (SRU)”: “”,
+“Surface Contamination (COContU)”: “”
+},
+{
+“”: 4008,
+“Reference”: “”,
+“E(keV)”: 7.5,
+“SE.yield”:,
+“Surface Topography (SRU)”: “”,
+“Surface Contamination (COContU)”: “”
+},
+{
+“”: 4009,
+“Reference”: “”,
+“E(keV)”: 8.5,
+“SE.yield”:,
+“Surface Topography (SRU)”: “”,
+“Surface Contamination (COContU)”: “”
+},
+{
+“”: 4010,
+“Reference”: “”,
+“E(keV)”: 9.5,
+“SE.yield”:,
+“Surface Topography (SRU)”: “”,
+“Surface Contamination (COContU)”: “”
+},
+{
+“”: 4011,
+“Reference”: “”,
+“E(keV)”: 10.5,
+“SE.yield”:,
+“Surface Topography (SRU)”: “”,
+“Surface Contamination (COContU)”: “”
+},
+{
+“”: 4012,
+“Reference”: “”,
+“E(keV)”: 11.5,
+“SE.yield”:,
+“Surface Topography (SRU)”: “”,
+“Surface Contamination (COContU)”: “”
+},
+{
+“”: 4013,
+“Reference”: “”,
+“E(keV)”: 12.5,
+“SE.yield”:,
+“Surface Topography (SRU)”: “”,
+“Surface Contamination (COContU)”: “”
+},
   {
     "": 1,
     "Material": "Aluminum",
