@@ -1,12 +1,12 @@
 [
   {
     "": 4003,
-    "Material": ,
-    "Reference": ,
+    "Material":"" ,
+    "Reference":"" ,
     "E(keV)": 5.0,
-    "SE.yield": ,
-    "Surface Topography (SRU)": ,
-    "Surface Contamination (COContU)": 
+    "SE.yield": 0.0,
+    "Surface Topography (SRU)":"" ,
+    "Surface Contamination (COContU)": ""
   },
   {
     "": 1,
