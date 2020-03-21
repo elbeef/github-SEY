@@ -1,13 +1,5 @@
 [
   {
-    “”: 4013,
-    “Reference”: "",
-    “E(keV)": 12.5,
-    "SE.yield": ,
-    "Surface Topography (SRU)": ,
-    "Surface Contamination (COContU)": 
-},
-  {
     "": 1,
     "Material": "Aluminum",
     "Reference": "Baglin, 2000*",
