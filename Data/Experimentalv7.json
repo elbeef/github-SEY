@@ -34467,4 +34467,5238 @@
     "E(keV)": 2.38,
     "SE.yield": 1.59,
     "Surface Topography (SRU)": "U",
-    "Surfa
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3831,
+    "Material": "Vanadium",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.57,
+    "SE.yield": 1.56,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3832,
+    "Material": "Vanadium",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.74,
+    "SE.yield": 1.52,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3833,
+    "Material": "Vanadium",
+    "Reference": "Ding 2001",
+    "E(keV)": 3.02,
+    "SE.yield": 1.44,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3834,
+    "Material": "Vanadium",
+    "Reference": "Ding 2001",
+    "E(keV)": 3.24,
+    "SE.yield": 1.37,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3835,
+    "Material": "Vanadium",
+    "Reference": "Ding 2001",
+    "E(keV)": 3.52,
+    "SE.yield": 1.29,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3836,
+    "Material": "Vanadium",
+    "Reference": "Ding 2001",
+    "E(keV)": 3.87,
+    "SE.yield": 1.16,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3837,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.1495,
+    "SE.yield": 0.426968639,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3838,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.1996,
+    "SE.yield": 0.585468288,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3839,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.2484,
+    "SE.yield": 0.729260074,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3840,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.2984,
+    "SE.yield": 0.770419385,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3841,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.3488,
+    "SE.yield": 0.789149502,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3842,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.3983,
+    "SE.yield": 0.79186215,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3843,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.4478,
+    "SE.yield": 0.778391519,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3844,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.4976,
+    "SE.yield": 0.765150042,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3845,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.5508,
+    "SE.yield": 0.744430613,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3846,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.6002,
+    "SE.yield": 0.719318526,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3847,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.6489,
+    "SE.yield": 0.695053553,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3848,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.7016,
+    "SE.yield": 0.67623226,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3849,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.7498,
+    "SE.yield": 0.653420727,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3850,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.7981,
+    "SE.yield": 0.631378703,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3851,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.8462,
+    "SE.yield": 0.614281656,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3852,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.8938,
+    "SE.yield": 0.601763385,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3853,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.944,
+    "SE.yield": 0.589500221,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3854,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.0448,
+    "SE.yield": 0.558006435,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3855,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.1475,
+    "SE.yield": 0.52819519,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3856,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.3052,
+    "SE.yield": 0.494855935,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3857,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.5499,
+    "SE.yield": 0.446446938,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3858,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.7977,
+    "SE.yield": 0.40834017,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3859,
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.0449,
+    "SE.yield": 0.377350783,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3860,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.1495,
+    "SE.yield": 1.027808533,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3861,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.19958,
+    "SE.yield": 1.414197014,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3862,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.24835,
+    "SE.yield": 1.216009064,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3863,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.29837,
+    "SE.yield": 1.258461084,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3864,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.34745,
+    "SE.yield": 1.249853741,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3865,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.39988,
+    "SE.yield": 1.179028034,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3866,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.44607,
+    "SE.yield": 1.139255551,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3867,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.4976,
+    "SE.yield": 1.116038988,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3868,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.54648,
+    "SE.yield": 1.108405752,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3869,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.60017,
+    "SE.yield": 1.063690296,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3870,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.64891,
+    "SE.yield": 1.063690296,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3871,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.70161,
+    "SE.yield": 0.959635405,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3872,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.74683,
+    "SE.yield": 0.914622947,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3873,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.79497,
+    "SE.yield": 0.871721833,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3874,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.84622,
+    "SE.yield": 0.830833031,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3875,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.89376,
+    "SE.yield": 0.802806307,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3876,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.94397,
+    "SE.yield": 0.775725017,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3877,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.04482,
+    "SE.yield": 0.765150042,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3878,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.14746,
+    "SE.yield": 0.631378703,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3879,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.30016,
+    "SE.yield": 0.577486964,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3880,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.54383,
+    "SE.yield": 0.610080228,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3881,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.790740961,
+    "SE.yield": 0.473265571,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3882,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.0449,
+    "SE.yield": 0.510377434,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3883,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.5447,
+    "SE.yield": 0.421148042,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3884,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.0453,
+    "SE.yield": 0.372206595,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3885,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.56,
+    "SE.yield": 0.331218006,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3886,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.0654,
+    "SE.yield": 0.298816796,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3887,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.535033851,
+    "SE.yield": 0.292727293,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3888,
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 5.0589,
+    "SE.yield": 0.3,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3889,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.15034,
+    "SE.yield": 0.21535611,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3890,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.20022,
+    "SE.yield": 0.496502541,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3891,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.24959,
+    "SE.yield": 0.683119837,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3892,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.29991,
+    "SE.yield": 0.798512678,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3893,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.35252,
+    "SE.yield": 0.878058422,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3894,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.44923,
+    "SE.yield": 0.952432432,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3895,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.55183,
+    "SE.yield": 1.012297687,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3896,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.60269,
+    "SE.yield": 1.040101515,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3897,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.64863,
+    "SE.yield": 1.032994112,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3898,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.70322,
+    "SE.yield": 1.032921637,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3899,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.75683,
+    "SE.yield": 1.032855755,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3900,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.79677,
+    "SE.yield": 1.03280964,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3901,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.85751,
+    "SE.yield": 1.03978312,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3902,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.90941,
+    "SE.yield": 1.032691068,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3903,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.9504,
+    "SE.yield": 1.025660472,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3904,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.05335,
+    "SE.yield": 1.004880208,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3905,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.15043,
+    "SE.yield": 0.977868205,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3906,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.30346,
+    "SE.yield": 0.938711514,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3907,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.55479,
+    "SE.yield": 0.882905108,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3908,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.81415,
+    "SE.yield": 0.824810238,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3909,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.05548,
+    "SE.yield": 0.770557651,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3910,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.543542721,
+    "SE.yield": 0.681744335,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3911,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.0563,
+    "SE.yield": 0.611433715,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3912,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.5662,
+    "SE.yield": 0.552126369,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3913,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.0704,
+    "SE.yield": 0.485216075,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3914,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.5781,
+    "SE.yield": 0.447186497,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3915,
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 5.074,
+    "SE.yield": 0.403828698,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3916,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.1503,
+    "SE.yield": 0.804437651,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3917,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.2002,
+    "SE.yield": 1.152773457,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3918,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.2496,
+    "SE.yield": 1.156474218,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3919,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.2999,
+    "SE.yield": 1.113885895,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3920,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.3499,
+    "SE.yield": 1.183952188,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3921,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.3994,
+    "SE.yield": 1.140402878,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3922,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.4492,
+    "SE.yield": 1.019379721,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3923,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.5016,
+    "SE.yield": 0.978573271,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3924,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.5518,
+    "SE.yield": 0.942608475,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3925,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.5983,
+    "SE.yield": 0.920397083,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3926,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.6534,
+    "SE.yield": 0.901760999,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3927,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.6981,
+    "SE.yield": 0.901709234,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3928,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.7513,
+    "SE.yield": 0.880467198,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3929,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.7997,
+    "SE.yield": 0.892462543,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3930,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.8512,
+    "SE.yield": 0.850971826,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3931,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.9028,
+    "SE.yield": 0.842301839,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3932,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.9539,
+    "SE.yield": 0.971406001,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3933,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.0533,
+    "SE.yield": 0.964746483,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3934,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.1504,
+    "SE.yield": 0.901318216,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3935,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.2987,
+    "SE.yield": 0.825049648,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3936,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.5548,
+    "SE.yield": 0.739961822,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3937,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.8009,
+    "SE.yield": 0.668191874,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3938,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.0555,
+    "SE.yield": 0.620010911,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3939,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.5529,
+    "SE.yield": 0.382696715,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3940,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.05,
+    "SE.yield": 0.352684257,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3941,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.57,
+    "SE.yield": 0.325030668,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3942,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.07,
+    "SE.yield": 0.303649566,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3943,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.53,
+    "SE.yield": 0.293482081,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3944,
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 5.0554,
+    "SE.yield": 0.29,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3945,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.1489,
+    "SE.yield": 0.966106265,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3946,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.2006,
+    "SE.yield": 1.376439439,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3947,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.2508,
+    "SE.yield": 1.569260211,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3948,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.2998,
+    "SE.yield": 1.664627244,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3949,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.3506,
+    "SE.yield": 1.697687209,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3950,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.4008,
+    "SE.yield": 1.708852465,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3951,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.4482,
+    "SE.yield": 1.697687209,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3952,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.5011,
+    "SE.yield": 1.697687209,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3953,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.5521,
+    "SE.yield": 1.664627244,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3954,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.6036,
+    "SE.yield": 1.642945709,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3955,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.6503,
+    "SE.yield": 1.60042616,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3956,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.6954,
+    "SE.yield": 1.569260211,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3957,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.7491,
+    "SE.yield": 1.518659808,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3958,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.801,
+    "SE.yield": 1.498879479,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3959,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.8565,
+    "SE.yield": 1.469691003,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3960,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.8956,
+    "SE.yield": 1.431655297,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3961,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.9506,
+    "SE.yield": 1.413008189,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3962,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.055,
+    "SE.yield": 1.323353137,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3963,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.1536,
+    "SE.yield": 1.264001245,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3964,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.2995,
+    "SE.yield": 1.199422964,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3965,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.5537,
+    "SE.yield": 1.101444842,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3966,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.8032,
+    "SE.yield": 1.018122512,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3967,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.0465,
+    "SE.yield": 0.941103367,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3968,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.5586,
+    "SE.yield": 0.841860533,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3969,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.06,
+    "SE.yield": 0.75803606,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3970,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.55,
+    "SE.yield": 0.691565576,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3971,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.03,
+    "SE.yield": 0.639249878,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3972,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.54,
+    "SE.yield": 0.594777914,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3973,
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2009",
+    "E(keV)": 5.075,
+    "SE.yield": 0.55,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3974,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.15116,
+    "SE.yield": 1.052045454,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3975,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.20058,
+    "SE.yield": 1.403775913,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3976,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.25077,
+    "SE.yield": 1.508737228,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3977,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.29983,
+    "SE.yield": 1.569260211,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3978,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.34797,
+    "SE.yield": 1.569260211,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3979,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.40083,
+    "SE.yield": 1.548820819,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3980,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.44819,
+    "SE.yield": 1.489086139,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3981,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.50114,
+    "SE.yield": 1.441070929,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3982,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.55206,
+    "SE.yield": 1.376439439,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3983,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.59917,
+    "SE.yield": 1.323353137,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3984,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.6503,
+    "SE.yield": 1.272314259,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3985,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.70056,
+    "SE.yield": 1.145629294,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3986,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.7491,
+    "SE.yield": 1.079995822,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3987,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.80101,
+    "SE.yield": 1.045171627,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3988,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.85016,
+    "SE.yield": 1.004861611,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3989,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.90233,
+    "SE.yield": 0.959793944,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3990,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.94355,
+    "SE.yield": 0.922776761,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3991,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.05502,
+    "SE.yield": 0.864226783,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3992,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.15361,
+    "SE.yield": 0.814714951,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3993,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.30924,
+    "SE.yield": 0.753083224,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3994,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.55375,
+    "SE.yield": 0.678098352,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3995,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.803190344,
+    "SE.yield": 0.630923739,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3996,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.0618,
+    "SE.yield": 0.598689617,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3997,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.5396,
+    "SE.yield": 0.521695365,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3998,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.0364,
+    "SE.yield": 0.466680657,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3999,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.5502,
+    "SE.yield": 0.417467454,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 4000,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.0592,
+    "SE.yield": 0.375900012,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 4001,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.572706778,
+    "SE.yield": 0.342938182,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 4002,
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 5.0374,
+    "SE.yield": 0.32,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  }
+]erence": "Joy Amorphous 1996",
+    "E(keV)": 7,
+    "SE.yield": 0.31,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3016,
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
+    "E(keV)": 10,
+    "SE.yield": 0.19,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3017,
+    "Material": "Silicon",
+    "Reference": "Reimer 1980",
+    "E(keV)": 1,
+    "SE.yield": 1.59,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3018,
+    "Material": "Silicon",
+    "Reference": "Reimer 1980",
+    "E(keV)": 3,
+    "SE.yield": 0.77,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3019,
+    "Material": "Silicon",
+    "Reference": "Reimer 1980",
+    "E(keV)": 5,
+    "SE.yield": 0.49,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3020,
+    "Material": "Silicon",
+    "Reference": "Reimer 1980",
+    "E(keV)": 10,
+    "SE.yield": 0.34,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3021,
+    "Material": "Silicon",
+    "Reference": "Reimer 1980",
+    "E(keV)": 20,
+    "SE.yield": 0.22,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3022,
+    "Material": "Silicon",
+    "Reference": "Reimer 1980",
+    "E(keV)": 30,
+    "SE.yield": 0.14,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3023,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 0.2,
+    "SE.yield": 0.9,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3024,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 0.3,
+    "SE.yield": 0.69,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3025,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 0.5,
+    "SE.yield": 0.87,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3026,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 0.6,
+    "SE.yield": 0.72,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3027,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 0.7,
+    "SE.yield": 0.68,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3028,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 0.8,
+    "SE.yield": 0.66,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3029,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 0.9,
+    "SE.yield": 0.66,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3030,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 1,
+    "SE.yield": 0.6,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3031,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 1.1,
+    "SE.yield": 0.54,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3032,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 1.2,
+    "SE.yield": 0.56,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3033,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 1.3,
+    "SE.yield": 0.56,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3034,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 1.4,
+    "SE.yield": 0.52,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3035,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 1.5,
+    "SE.yield": 0.51,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3036,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 1.6,
+    "SE.yield": 0.4,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3037,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 1.7,
+    "SE.yield": 0.52,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3038,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 1.8,
+    "SE.yield": 0.28,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3039,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 1.9,
+    "SE.yield": 0.35,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3040,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 2,
+    "SE.yield": 0.43,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3041,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 2.2,
+    "SE.yield": 0.48,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3042,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 2.4,
+    "SE.yield": 0.31,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3043,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 2.6,
+    "SE.yield": 0.38,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3044,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 2.8,
+    "SE.yield": 0.29,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3045,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 3,
+    "SE.yield": 0.31,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3046,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 3.2,
+    "SE.yield": 0.29,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3047,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 3.4,
+    "SE.yield": 0.28,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3048,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 3.6,
+    "SE.yield": 0.28,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3049,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 3.8,
+    "SE.yield": 0.25,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3050,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 4,
+    "SE.yield": 0.25,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3051,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 4.5,
+    "SE.yield": 0.26,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3052,
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "E(keV)": 5,
+    "SE.yield": 0.24,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3053,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.58,
+    "SE.yield": 1.27,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3054,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.94,
+    "SE.yield": 1.49,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3055,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.22,
+    "SE.yield": 1.55,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3056,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.46,
+    "SE.yield": 1.58,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3057,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.66,
+    "SE.yield": 1.61,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3058,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.82,
+    "SE.yield": 1.6,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3059,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.97,
+    "SE.yield": 1.58,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3060,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.09,
+    "SE.yield": 1.6,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3061,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.23,
+    "SE.yield": 1.59,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3062,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.32,
+    "SE.yield": 1.56,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3063,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.42,
+    "SE.yield": 1.54,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3064,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.52,
+    "SE.yield": 1.56,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3065,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.61,
+    "SE.yield": 1.54,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3066,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.69,
+    "SE.yield": 1.54,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3067,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.75,
+    "SE.yield": 1.53,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3068,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.84,
+    "SE.yield": 1.51,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3069,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.91,
+    "SE.yield": 1.5,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3070,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.02,
+    "SE.yield": 1.49,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3071,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.14,
+    "SE.yield": 1.48,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3072,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.3,
+    "SE.yield": 1.45,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3073,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.53,
+    "SE.yield": 1.39,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3074,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.72,
+    "SE.yield": 1.32,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3075,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.87,
+    "SE.yield": 1.27,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3076,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.16,
+    "SE.yield": 1.15,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3077,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.39,
+    "SE.yield": 1.07,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3078,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.57,
+    "SE.yield": 1.01,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3079,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.74,
+    "SE.yield": 0.94,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3080,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.89,
+    "SE.yield": 0.88,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3081,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 5.02,
+    "SE.yield": 0.84,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3082,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 7.86,
+    "SE.yield": 4.32,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3083,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 8.06,
+    "SE.yield": 4.26,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3084,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 8.21,
+    "SE.yield": 4.28,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3085,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 8.36,
+    "SE.yield": 4.2,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3086,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 8.51,
+    "SE.yield": 4.2,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3087,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 8.62,
+    "SE.yield": 4.16,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3088,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 8.74,
+    "SE.yield": 4.14,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3089,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 8.84,
+    "SE.yield": 4.1,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3090,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 8.93,
+    "SE.yield": 4.08,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3091,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 9.03,
+    "SE.yield": 4.07,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3092,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 9.11,
+    "SE.yield": 4.05,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3093,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 9.19,
+    "SE.yield": 4.02,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3094,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 9.26,
+    "SE.yield": 3.97,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3095,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 9.33,
+    "SE.yield": 3.99,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3096,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 9.46,
+    "SE.yield": 3.94,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3097,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 9.57,
+    "SE.yield": 3.91,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3098,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 9.72,
+    "SE.yield": 3.86,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3099,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 9.95,
+    "SE.yield": 3.8,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3100,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 10.16,
+    "SE.yield": 3.73,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3101,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 10.3,
+    "SE.yield": 3.68,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3102,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 10.6,
+    "SE.yield": 3.57,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3103,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 10.8,
+    "SE.yield": 3.47,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3104,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 11.03,
+    "SE.yield": 3.37,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3105,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 11.19,
+    "SE.yield": 3.32,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3106,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 11.33,
+    "SE.yield": 3.27,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3107,
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 11.47,
+    "SE.yield": 3.28,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3108,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.59,
+    "SE.yield": 1.28,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3109,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.93,
+    "SE.yield": 1.44,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3110,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.22,
+    "SE.yield": 1.45,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3111,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.45,
+    "SE.yield": 1.52,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3112,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.65,
+    "SE.yield": 1.56,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3113,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.81,
+    "SE.yield": 1.5,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3114,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.97,
+    "SE.yield": 1.53,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3115,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.09,
+    "SE.yield": 1.49,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3116,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.21,
+    "SE.yield": 1.47,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3117,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.32,
+    "SE.yield": 1.44,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3118,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.44,
+    "SE.yield": 1.43,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3119,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.53,
+    "SE.yield": 1.38,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3120,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.62,
+    "SE.yield": 1.35,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3121,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.7,
+    "SE.yield": 1.31,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3122,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.78,
+    "SE.yield": 1.31,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3123,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.84,
+    "SE.yield": 1.27,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3124,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.92,
+    "SE.yield": 1.28,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3125,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.04,
+    "SE.yield": 1.25,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3126,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.16,
+    "SE.yield": 1.2,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3127,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.3,
+    "SE.yield": 1.17,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3128,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.52,
+    "SE.yield": 1.11,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3129,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.71,
+    "SE.yield": 1.07,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3130,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.87,
+    "SE.yield": 1.02,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3131,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.16,
+    "SE.yield": 0.94,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3132,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.38,
+    "SE.yield": 0.81,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3133,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.58,
+    "SE.yield": 0.75,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3134,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.74,
+    "SE.yield": 0.68,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3135,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.9,
+    "SE.yield": 0.65,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3136,
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 5.02,
+    "SE.yield": 0.65,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3137,
+    "Material": "Silicon",
+    "Reference": "Whetten 1962",
+    "E(keV)": 0.13,
+    "SE.yield": 1,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3138,
+    "Material": "Silicon",
+    "Reference": "Whetten 1962",
+    "E(keV)": 0.25,
+    "SE.yield": 1.1,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3139,
+    "Material": "Silicon",
+    "Reference": "Whetten 1962",
+    "E(keV)": 0.5,
+    "SE.yield": 1,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3140,
+    "Material": "Silicon",
+    "Reference": "Wittry, 1966",
+    "E(keV)": 5,
+    "SE.yield": 0.25,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3141,
+    "Material": "Silicon",
+    "Reference": "Wittry, 1966",
+    "E(keV)": 5,
+    "SE.yield": 0.33,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3142,
+    "Material": "Silicon",
+    "Reference": "Wittry, 1966",
+    "E(keV)": 30,
+    "SE.yield": 0.08,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3143,
+    "Material": "Silicon",
+    "Reference": "Wittry, 1966",
+    "E(keV)": 30,
+    "SE.yield": 0.1,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3144,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 0.5,
+    "SE.yield": 1.22,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3145,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 1,
+    "SE.yield": 1.21,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3146,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 1.5,
+    "SE.yield": 1.04,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3147,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 2,
+    "SE.yield": 0.88,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3148,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 3,
+    "SE.yield": 0.69,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3149,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 4,
+    "SE.yield": 0.56,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3150,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 5,
+    "SE.yield": 0.47,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3151,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 6,
+    "SE.yield": 0.4,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3152,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 7,
+    "SE.yield": 0.35,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3153,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 8,
+    "SE.yield": 0.31,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3154,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 9,
+    "SE.yield": 0.29,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3155,
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "E(keV)": 10,
+    "SE.yield": 0.27,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3156,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 0.02,
+    "SE.yield": 0.48,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3157,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 0.1,
+    "SE.yield": 0.7,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3158,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 0.15,
+    "SE.yield": 0.86,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3159,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 0.2,
+    "SE.yield": 0.96,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3160,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 0.3,
+    "SE.yield": 1.14,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3161,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 0.4,
+    "SE.yield": 1.24,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3162,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 0.6,
+    "SE.yield": 1.33,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3163,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 0.8,
+    "SE.yield": 1.35,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3164,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 1,
+    "SE.yield": 1.33,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3165,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 2,
+    "SE.yield": 0.88,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3166,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 3,
+    "SE.yield": 0.66,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3167,
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "E(keV)": 4,
+    "SE.yield": 0.51,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3168,
+    "Material": "Silver",
+    "Reference": "Bruining, 1938",
+    "E(keV)": 0.05,
+    "SE.yield": 0.53,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3169,
+    "Material": "Silver",
+    "Reference": "Bruining, 1938",
+    "E(keV)": 0.1,
+    "SE.yield": 0.86,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3170,
+    "Material": "Silver",
+    "Reference": "Bruining, 1938",
+    "E(keV)": 0.2,
+    "SE.yield": 1.17,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3171,
+    "Material": "Silver",
+    "Reference": "Bruining, 1938",
+    "E(keV)": 0.4,
+    "SE.yield": 1.48,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3172,
+    "Material": "Silver",
+    "Reference": "Bruining, 1938",
+    "E(keV)": 0.6,
+    "SE.yield": 1.56,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3173,
+    "Material": "Silver",
+    "Reference": "Bruining, 1938",
+    "E(keV)": 0.8,
+    "SE.yield": 1.56,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3174,
+    "Material": "Silver",
+    "Reference": "Bruining, 1938",
+    "E(keV)": 1,
+    "SE.yield": 1.56,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3175,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 0.1,
+    "SE.yield": 1.54,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3176,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 0.61,
+    "SE.yield": 1.7,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3177,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 0.98,
+    "SE.yield": 1.8,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3178,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 1.48,
+    "SE.yield": 1.87,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3179,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 1.82,
+    "SE.yield": 1.9,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3180,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.12,
+    "SE.yield": 1.89,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3181,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.34,
+    "SE.yield": 1.88,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3182,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.53,
+    "SE.yield": 1.86,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3183,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.72,
+    "SE.yield": 1.83,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3184,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.99,
+    "SE.yield": 1.78,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3185,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 3.23,
+    "SE.yield": 1.71,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3186,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 3.5,
+    "SE.yield": 1.64,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3187,
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "E(keV)": 3.85,
+    "SE.yield": 1.51,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3188,
+    "Material": "Silver",
+    "Reference": "Moncrieff, 1976",
+    "E(keV)": 2.5,
+    "SE.yield": 0.93,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3189,
+    "Material": "Silver",
+    "Reference": "Moncrieff, 1976",
+    "E(keV)": 5,
+    "SE.yield": 0.64,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3190,
+    "Material": "Silver",
+    "Reference": "Moncrieff, 1976",
+    "E(keV)": 10,
+    "SE.yield": 0.41,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3191,
+    "Material": "Silver",
+    "Reference": "Moncrieff, 1976",
+    "E(keV)": 15,
+    "SE.yield": 0.29,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3192,
+    "Material": "Silver",
+    "Reference": "Moncrieff, 1976",
+    "E(keV)": 20,
+    "SE.yield": 0.24,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3193,
+    "Material": "Silver",
+    "Reference": "Moncrieff, 1976",
+    "E(keV)": 25,
+    "SE.yield": 0.21,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3194,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0,
+    "SE.yield": 0.11,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3195,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0,
+    "SE.yield": 0.1,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3196,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0,
+    "SE.yield": 0.09,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3197,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0,
+    "SE.yield": 0.08,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3198,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0,
+    "SE.yield": 0.07,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3199,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0,
+    "SE.yield": 0.09,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3200,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0.01,
+    "SE.yield": 0.12,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3201,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0.01,
+    "SE.yield": 0.15,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3202,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0.01,
+    "SE.yield": 0.18,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3203,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0.01,
+    "SE.yield": 0.23,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3204,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0.01,
+    "SE.yield": 0.26,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3205,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0.01,
+    "SE.yield": 0.28,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3206,
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "E(keV)": 0.01,
+    "SE.yield": 0.29,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3207,
+    "Material": "Silver",
+    "Reference": "Reimer 1980",
+    "E(keV)": 1,
+    "SE.yield": 1.62,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3208,
+    "Material": "Silver",
+    "Reference": "Reimer 1980",
+    "E(keV)": 3,
+    "SE.yield": 0.9,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3209,
+    "Material": "Silver",
+    "Reference": "Reimer 1980",
+    "E(keV)": 5,
+    "SE.yield": 0.63,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3210,
+    "Material": "Silver",
+    "Reference": "Reimer 1980",
+    "E(keV)": 10,
+    "SE.yield": 0.36,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3211,
+    "Material": "Silver",
+    "Reference": "Reimer 1980",
+    "E(keV)": 20,
+    "SE.yield": 0.26,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3212,
+    "Material": "Silver",
+    "Reference": "Reimer 1980",
+    "E(keV)": 30,
+    "SE.yield": 0.16,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3213,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 0.1,
+    "SE.yield": 1.04,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3214,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 0.2,
+    "SE.yield": 1.31,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3215,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 0.3,
+    "SE.yield": 1.39,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3216,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 0.4,
+    "SE.yield": 1.43,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3217,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 0.5,
+    "SE.yield": 1.38,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3218,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 0.6,
+    "SE.yield": 1.34,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3219,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 0.7,
+    "SE.yield": 1.3,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3220,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 0.8,
+    "SE.yield": 1.26,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3221,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 0.9,
+    "SE.yield": 1.22,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3222,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 1,
+    "SE.yield": 1.18,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3223,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 3.5,
+    "SE.yield": 0.68,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3224,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 4,
+    "SE.yield": 0.58,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3225,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 5,
+    "SE.yield": 0.5,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3226,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 6,
+    "SE.yield": 0.42,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3227,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 8,
+    "SE.yield": 0.34,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3228,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 10,
+    "SE.yield": 0.28,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3229,
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "E(keV)": 12,
+    "SE.yield": 0.26,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3230,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.4013,
+    "SE.yield": 0.989485281,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3231,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.4486,
+    "SE.yield": 1.029311785,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3232,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.4978,
+    "SE.yield": 1.056749416,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3233,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.5523,
+    "SE.yield": 1.06372235,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3234,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.5949,
+    "SE.yield": 1.06372235,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3235,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.6504,
+    "SE.yield": 1.070741294,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3236,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.7006,
+    "SE.yield": 1.056749416,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3237,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.7435,
+    "SE.yield": 1.056749416,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3238,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.8008,
+    "SE.yield": 1.049822191,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3239,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.8499,
+    "SE.yield": 1.042940376,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3240,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.8952,
+    "SE.yield": 1.036103672,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3241,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.9572,
+    "SE.yield": 1.036103672,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3242,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.0464,
+    "SE.yield": 1.009202091,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3243,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.1525,
+    "SE.yield": 1.002586549,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3244,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.298,
+    "SE.yield": 0.963794107,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3245,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.5514,
+    "SE.yield": 0.914395593,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3246,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.7867,
+    "SE.yield": 0.861842117,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3247,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.0423,
+    "SE.yield": 0.812309071,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3248,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.5334,
+    "SE.yield": 0.726381459,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3249,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.028,
+    "SE.yield": 0.649543434,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3250,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.5393,
+    "SE.yield": 0.604211867,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3251,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.9861,
+    "SE.yield": 0.554699493,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3252,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.506,
+    "SE.yield": 0.519391802,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3253,
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 5,
+    "SE.yield": 0.483143504,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3254,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.2981,
+    "SE.yield": 1.33027488,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3255,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.34843,
+    "SE.yield": 1.229323479,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3256,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.40426,
+    "SE.yield": 1.166315464,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3257,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.44858,
+    "SE.yield": 1.151074673,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3258,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.49775,
+    "SE.yield": 1.11383833,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3259,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.54823,
+    "SE.yield": 1.077806553,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3260,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.59936,
+    "SE.yield": 1.042940376,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3261,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.64559,
+    "SE.yield": 1.022564419,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3262,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.70057,
+    "SE.yield": 1.002586549,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3263,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.74902,
+    "SE.yield": 0.970153678,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3264,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.78901,
+    "SE.yield": 0.938769985,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3265,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.84358,
+    "SE.yield": 0.920429209,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3266,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.89524,
+    "SE.yield": 0.89653102,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3267,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.95007,
+    "SE.yield": 0.879015468,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3268,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.05422,
+    "SE.yield": 0.839465094,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3269,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.15254,
+    "SE.yield": 0.812309071,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3270,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.30771,
+    "SE.yield": 0.760604035,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3271,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.55143,
+    "SE.yield": 0.689151344,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3272,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.78666,
+    "SE.yield": 0.624411064,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3273,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.04233,
+    "SE.yield": 0.577025992,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3274,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.53342,
+    "SE.yield": 0.50924443,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3275,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.005567068,
+    "SE.yield": 0.45239049,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3276,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.5131,
+    "SE.yield": 0.409892007,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3277,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.0158,
+    "SE.yield": 0.386334096,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3278,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.0324,
+    "SE.yield": 0.361553696,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3279,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.5228,
+    "SE.yield": 0.361743187,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3280,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.540457904,
+    "SE.yield": 0.329948692,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3281,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 5.056,
+    "SE.yield": 0.345466934,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3282,
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 5.0747,
+    "SE.yield": 0.32,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3283,
+    "Material": "Silver",
+    "Reference": "Wittry, 1966",
+    "E(keV)": 5,
+    "SE.yield": 0.3,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3284,
+    "Material": "Silver",
+    "Reference": "Wittry, 1966",
+    "E(keV)": 5,
+    "SE.yield": 0.5,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3285,
+    "Material": "Silver",
+    "Reference": "Wittry, 1966",
+    "E(keV)": 30,
+    "SE.yield": 0.12,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3286,
+    "Material": "Silver",
+    "Reference": "Wittry, 1966",
+    "E(keV)": 30,
+    "SE.yield": 0.15,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3287,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 0.13,
+    "SE.yield": 1.09,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3288,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 0.61,
+    "SE.yield": 1.22,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3289,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 1,
+    "SE.yield": 1.31,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3290,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 1.49,
+    "SE.yield": 1.4,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3291,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 1.85,
+    "SE.yield": 1.43,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3292,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.14,
+    "SE.yield": 1.46,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3293,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.37,
+    "SE.yield": 1.47,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3294,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.56,
+    "SE.yield": 1.44,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3295,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.72,
+    "SE.yield": 1.43,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3296,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 2.99,
+    "SE.yield": 1.4,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3297,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 3.22,
+    "SE.yield": 1.36,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3298,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 3.52,
+    "SE.yield": 1.3,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3299,
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "E(keV)": 3.85,
+    "SE.yield": 1.21,
+    "Surface Topography (SRU)": "U",
+    "Surface Contamination (COContU)": "U"
+  },
+  {
+    "": 3300,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.62,
+    "SE.yield": 1.18,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3301,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.96,
+    "SE.yield": 1.33,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3302,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.25,
+    "SE.yield": 1.43,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3303,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.68,
+    "SE.yield": 1.49,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3304,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2,
+    "SE.yield": 1.52,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3305,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.25,
+    "SE.yield": 1.53,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3306,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.47,
+    "SE.yield": 1.52,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3307,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.56,
+    "SE.yield": 1.5,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3308,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.86,
+    "SE.yield": 1.45,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3309,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.05,
+    "SE.yield": 1.43,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3310,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.17,
+    "SE.yield": 1.41,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3311,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.32,
+    "SE.yield": 1.38,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3312,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.53,
+    "SE.yield": 1.36,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3313,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.72,
+    "SE.yield": 1.31,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3314,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.89,
+    "SE.yield": 1.26,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3315,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.41,
+    "SE.yield": 1.14,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3316,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.59,
+    "SE.yield": 1.09,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3317,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.89,
+    "SE.yield": 0.98,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3318,
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 5.03,
+    "SE.yield": 0.95,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3319,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.62,
+    "SE.yield": 1.57,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3320,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.98,
+    "SE.yield": 1.73,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3321,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.25,
+    "SE.yield": 1.71,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3322,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.49,
+    "SE.yield": 1.76,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3323,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.68,
+    "SE.yield": 1.75,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3324,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.86,
+    "SE.yield": 1.76,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3325,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2,
+    "SE.yield": 1.75,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3326,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.13,
+    "SE.yield": 1.77,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3327,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.24,
+    "SE.yield": 1.73,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3328,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.38,
+    "SE.yield": 1.7,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3329,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.47,
+    "SE.yield": 1.65,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3330,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.56,
+    "SE.yield": 1.64,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3331,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.64,
+    "SE.yield": 1.61,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3332,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.72,
+    "SE.yield": 1.59,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3333,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.79,
+    "SE.yield": 1.57,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3334,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.89,
+    "SE.yield": 1.59,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3335,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.94,
+    "SE.yield": 1.55,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3336,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.05,
+    "SE.yield": 1.56,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3337,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.17,
+    "SE.yield": 1.51,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3338,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.33,
+    "SE.yield": 1.47,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3339,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.55,
+    "SE.yield": 1.41,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3340,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.73,
+    "SE.yield": 1.36,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3341,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.16,
+    "SE.yield": 1.17,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3342,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.41,
+    "SE.yield": 1.1,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3343,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.57,
+    "SE.yield": 1.06,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3344,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.73,
+    "SE.yield": 1.03,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3345,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.88,
+    "SE.yield": 1.03,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3346,
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 5.01,
+    "SE.yield": 1.03,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3347,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.6,
+    "SE.yield": 1.12,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3348,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 0.95,
+    "SE.yield": 1.28,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3349,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.22,
+    "SE.yield": 1.4,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3350,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.47,
+    "SE.yield": 1.47,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3351,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.64,
+    "SE.yield": 1.52,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3352,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.82,
+    "SE.yield": 1.55,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3353,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 1.97,
+    "SE.yield": 1.55,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3354,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.12,
+    "SE.yield": 1.57,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3355,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.24,
+    "SE.yield": 1.58,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3356,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.32,
+    "SE.yield": 1.57,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3357,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.44,
+    "SE.yield": 1.57,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3358,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.53,
+    "SE.yield": 1.56,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3359,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.61,
+    "SE.yield": 1.55,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3360,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.83,
+    "SE.yield": 1.53,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3361,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 2.91,
+    "SE.yield": 1.51,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3362,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.04,
+    "SE.yield": 1.5,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3363,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.17,
+    "SE.yield": 1.47,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3364,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.3,
+    "SE.yield": 1.43,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3365,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.52,
+    "SE.yield": 1.38,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3366,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.7,
+    "SE.yield": 1.35,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3367,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 3.87,
+    "SE.yield": 1.3,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3368,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.15,
+    "SE.yield": 1.23,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3369,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.38,
+    "SE.yield": 1.16,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3370,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.55,
+    "SE.yield": 1.11,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3371,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.74,
+    "SE.yield": 1.05,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3372,
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "E(keV)": 4.87,
+    "SE.yield": 0.99,
+    "Surface Topography (SRU)": "S",
+    "Surface Contamination (COContU)": "C"
+  },
+  {
+    "": 3373,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.59,
+    "SE.yield": 1.66,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3374,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 0.95,
+    "SE.yield": 1.81,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3375,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.23,
+    "SE.yield": 1.84,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3376,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.47,
+    "SE.yield": 1.81,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3377,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.64,
+    "SE.yield": 1.79,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3378,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.82,
+    "SE.yield": 1.75,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3379,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 1.98,
+    "SE.yield": 1.72,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3380,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.1,
+    "SE.yield": 1.69,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3381,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.23,
+    "SE.yield": 1.65,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3382,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.44,
+    "SE.yield": 1.54,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3383,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.51,
+    "SE.yield": 1.53,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3384,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.6,
+    "SE.yield": 1.5,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3385,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.77,
+    "SE.yield": 1.48,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3386,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.84,
+    "SE.yield": 1.46,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3387,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 2.91,
+    "SE.yield": 1.39,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3388,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.04,
+    "SE.yield": 1.34,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3389,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.14,
+    "SE.yield": 1.39,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3390,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.31,
+    "SE.yield": 1.42,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3391,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.52,
+    "SE.yield": 1.33,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3392,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.73,
+    "SE.yield": 1.25,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3393,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 3.88,
+    "SE.yield": 1.2,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3394,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.15,
+    "SE.yield": 1.12,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3395,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.36,
+    "SE.yield": 1.03,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3396,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.58,
+    "SE.yield": 0.98,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3397,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.73,
+    "SE.yield": 0.94,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3398,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 4.86,
+    "SE.yield": 0.92,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3399,
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "E(keV)": 5.01,
+    "SE.yield": 0.93,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3400,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.08,
+    "SE.yield": 1.28,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3401,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.1,
+    "SE.yield": 1.45,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3402,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.12,
+    "SE.yield": 1.56,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3403,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.14,
+    "SE.yield": 1.62,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3404,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.19,
+    "SE.yield": 1.67,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3405,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.25,
+    "SE.yield": 1.73,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3406,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.29,
+    "SE.yield": 1.71,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3407,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.35,
+    "SE.yield": 1.63,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3408,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.39,
+    "SE.yield": 1.57,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3409,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.45,
+    "SE.yield": 1.53,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3410,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.49,
+    "SE.yield": 1.44,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3411,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.55,
+    "SE.yield": 1.41,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3412,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.59,
+    "SE.yield": 1.33,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3413,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.65,
+    "SE.yield": 1.23,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3414,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.7,
+    "SE.yield": 1.3,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3415,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.75,
+    "SE.yield": 1.26,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3416,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.8,
+    "SE.yield": 1.24,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3417,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.85,
+    "SE.yield": 1.18,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3418,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 0.94,
+    "SE.yield": 1.13,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3419,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 1.04,
+    "SE.yield": 1.11,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3420,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 1.1,
+    "SE.yield": 1.07,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3421,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 1.19,
+    "SE.yield": 1.01,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3422,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 1.25,
+    "SE.yield": 0.98,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3423,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 1.35,
+    "SE.yield": 0.93,
+    "Surface Topography (SRU)": "R",
+    "Surface Contamination (COContU)": "Cont"
+  },
+  {
+    "": 3424,
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "E(keV)": 1.45,
+    "SE.yield": 0.89,
+    "S
