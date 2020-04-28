@@ -23536,7 +23536,7 @@
   },
   {
     "": 2616,
-    "Material": "LIthium",
+    "Material": "Lithium",
     "Reference": "Whetten 1962",
     "E(keV)": 0.09,
     "SE.yield": 0.5,
