@@ -24499,7 +24499,7 @@
   },
   {
     "": 2723,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 1.25,
     "SE.yield": 1.42,
@@ -24508,7 +24508,7 @@
   },
   {
     "": 2724,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 1.49,
     "SE.yield": 1.47,
@@ -24517,7 +24517,7 @@
   },
   {
     "": 2725,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 1.68,
     "SE.yield": 1.49,
@@ -24526,7 +24526,7 @@
   },
   {
     "": 2726,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 1.84,
     "SE.yield": 1.51,
@@ -24535,7 +24535,7 @@
   },
   {
     "": 2727,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 2,
     "SE.yield": 1.5,
@@ -24544,7 +24544,7 @@
   },
   {
     "": 2728,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 2.13,
     "SE.yield": 1.48,
@@ -24553,7 +24553,7 @@
   },
   {
     "": 2729,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 2.24,
     "SE.yield": 1.48,
@@ -24562,7 +24562,7 @@
   },
   {
     "": 2730,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 2.35,
     "SE.yield": 1.46,
@@ -24571,7 +24571,7 @@
   },
   {
     "": 2731,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 2.54,
     "SE.yield": 1.43,
@@ -24580,7 +24580,7 @@
   },
   {
     "": 2732,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 2.7,
     "SE.yield": 1.4,
@@ -24589,7 +24589,7 @@
   },
   {
     "": 2733,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 2.86,
     "SE.yield": 1.36,
@@ -24598,7 +24598,7 @@
   },
   {
     "": 2734,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 3.04,
     "SE.yield": 1.31,
@@ -24607,7 +24607,7 @@
   },
   {
     "": 2735,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 3.31,
     "SE.yield": 1.25,
@@ -24616,7 +24616,7 @@
   },
   {
     "": 2736,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 3.72,
     "SE.yield": 1.14,
@@ -24625,7 +24625,7 @@
   },
   {
     "": 2737,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 4.15,
     "SE.yield": 1.04,
@@ -24634,7 +24634,7 @@
   },
   {
     "": 2738,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 4.4,
     "SE.yield": 0.96,
@@ -24643,7 +24643,7 @@
   },
   {
     "": 2739,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 4.56,
     "SE.yield": 0.9,
@@ -24652,7 +24652,7 @@
   },
   {
     "": 2740,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Cleaned 2008",
     "E(keV)": 4.74,
     "SE.yield": 0.84,
@@ -24661,7 +24661,7 @@
   },
   {
     "": 2741,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 1.28,
     "SE.yield": 1.68,
@@ -24670,7 +24670,7 @@
   },
   {
     "": 2742,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 1.49,
     "SE.yield": 1.7,
@@ -24679,7 +24679,7 @@
   },
   {
     "": 2743,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 1.71,
     "SE.yield": 1.71,
@@ -24688,7 +24688,7 @@
   },
   {
     "": 2744,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 1.85,
     "SE.yield": 1.71,
@@ -24697,7 +24697,7 @@
   },
   {
     "": 2745,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 2.01,
     "SE.yield": 1.71,
@@ -24706,7 +24706,7 @@
   },
   {
     "": 2746,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 2.12,
     "SE.yield": 1.66,
@@ -24715,7 +24715,7 @@
   },
   {
     "": 2747,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 2.23,
     "SE.yield": 1.63,
@@ -24724,7 +24724,7 @@
   },
   {
     "": 2748,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 2.36,
     "SE.yield": 1.61,
@@ -24733,7 +24733,7 @@
   },
   {
     "": 2749,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 2.45,
     "SE.yield": 1.58,
@@ -24742,7 +24742,7 @@
   },
   {
     "": 2750,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 2.54,
     "SE.yield": 1.56,
@@ -24751,7 +24751,7 @@
   },
   {
     "": 2751,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 2.63,
     "SE.yield": 1.59,
@@ -24760,7 +24760,7 @@
   },
   {
     "": 2752,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 2.71,
     "SE.yield": 1.56,
@@ -24769,7 +24769,7 @@
   },
   {
     "": 2753,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 2.8,
     "SE.yield": 1.53,
@@ -24778,7 +24778,7 @@
   },
   {
     "": 2754,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 2.83,
     "SE.yield": 1.5,
@@ -24787,7 +24787,7 @@
   },
   {
     "": 2755,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 2.92,
     "SE.yield": 1.47,
@@ -24796,7 +24796,7 @@
   },
   {
     "": 2756,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 3.04,
     "SE.yield": 1.44,
@@ -24805,7 +24805,7 @@
   },
   {
     "": 2757,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 3.17,
     "SE.yield": 1.44,
@@ -24814,7 +24814,7 @@
   },
   {
     "": 2758,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 3.32,
     "SE.yield": 1.37,
@@ -24823,7 +24823,7 @@
   },
   {
     "": 2759,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 3.52,
     "SE.yield": 1.3,
@@ -24832,7 +24832,7 @@
   },
   {
     "": 2760,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 3.73,
     "SE.yield": 1.23,
@@ -24841,7 +24841,7 @@
   },
   {
     "": 2761,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 3.88,
     "SE.yield": 1.18,
@@ -24850,7 +24850,7 @@
   },
   {
     "": 2762,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 4.18,
     "SE.yield": 1.09,
@@ -24859,7 +24859,7 @@
   },
   {
     "": 2763,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 4.41,
     "SE.yield": 1.02,
@@ -24868,7 +24868,7 @@
   },
   {
     "": 2764,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 4.59,
     "SE.yield": 0.94,
@@ -24877,7 +24877,7 @@
   },
   {
     "": 2765,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 4.72,
     "SE.yield": 0.88,
@@ -24886,7 +24886,7 @@
   },
   {
     "": 2766,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Walker Native 2008",
     "E(keV)": 4.88,
     "SE.yield": 0.84,
