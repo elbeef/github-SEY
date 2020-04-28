@@ -24166,7 +24166,7 @@
   },
   {
     "": 2686,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 0.12,
     "SE.yield": 1.4,
@@ -24175,7 +24175,7 @@
   },
   {
     "": 2687,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 0.63,
     "SE.yield": 1.56,
@@ -24184,7 +24184,7 @@
   },
   {
     "": 2688,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 0.99,
     "SE.yield": 1.65,
@@ -24193,7 +24193,7 @@
   },
   {
     "": 2689,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 1.5,
     "SE.yield": 1.74,
@@ -24202,7 +24202,7 @@
   },
   {
     "": 2690,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 1.87,
     "SE.yield": 1.77,
@@ -24211,7 +24211,7 @@
   },
   {
     "": 2691,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 2.13,
     "SE.yield": 1.77,
@@ -24220,7 +24220,7 @@
   },
   {
     "": 2692,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 2.36,
     "SE.yield": 1.76,
@@ -24229,7 +24229,7 @@
   },
   {
     "": 2693,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 2.55,
     "SE.yield": 1.74,
@@ -24238,7 +24238,7 @@
   },
   {
     "": 2694,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 2.72,
     "SE.yield": 1.72,
@@ -24247,7 +24247,7 @@
   },
   {
     "": 2695,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 3.01,
     "SE.yield": 1.65,
@@ -24256,7 +24256,7 @@
   },
   {
     "": 2696,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 3.24,
     "SE.yield": 1.6,
@@ -24265,7 +24265,7 @@
   },
   {
     "": 2697,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 3.52,
     "SE.yield": 1.52,
@@ -24274,7 +24274,7 @@
   },
   {
     "": 2698,
-    "Material": "molybdenum",
+    "Material": "Molybdenum",
     "Reference": "Ding 2001",
     "E(keV)": 3.86,
     "SE.yield": 1.42,
