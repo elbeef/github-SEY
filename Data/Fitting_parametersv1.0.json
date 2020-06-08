@@ -2,101 +2,92 @@
   {
     "Material": "Aluminum",
     "Reference": "Baglin, 2000*",
-    "DeltaMax": 3.210389179,
-    "Emax": 0.334817693,
-    "RC1": 1.316208174,
-    "RExp1": 0.540107708,
+    "DeltaMax": 3.2104,
+    "Emax": 0.3348,
+    "RC1": 1.3162,
+    "RExp1": 0.5401,
     "RC2": 1,
-    "RExp2": 2.0243797,
-    "Chi-Squared": 0.02556679
+    "RExp2": 2.0244
   },
   {
     "Material": "Aluminum",
     "Reference": "Baroody 1950",
-    "DeltaMax": 2.484137949,
-    "Emax": 0.306582721,
-    "RC1": 6.096183285,
-    "RExp1": 0.557215358,
+    "DeltaMax": 2.4841,
+    "Emax": 0.3066,
+    "RC1": 6.0962,
+    "RExp1": 0.5572,
     "RC2": 1,
-    "RExp2": 1.434729614,
-    "Chi-Squared": 0.000575213
+    "RExp2": 1.4347
   },
   {
     "Material": "Aluminum",
     "Reference": "Bongeler, 1993",
-    "DeltaMax": 3.585291523,
-    "Emax": 0.304981383,
-    "RC1": 5.534406973,
-    "RExp1": 1.372285939,
+    "DeltaMax": 3.5853,
+    "Emax": 0.305,
+    "RC1": 5.5344,
+    "RExp1": 1.3723,
     "RC2": 1,
-    "RExp2": 2.309334142,
-    "Chi-Squared": 0.01482083
+    "RExp2": 2.3093
   },
   {
     "Material": "Aluminum",
     "Reference": "Bronstein I M and Fraiman 1969",
-    "DeltaMax": 0.64831856,
-    "Emax": 0.252192693,
-    "RC1": 0.830843334,
-    "RExp1": 1.858636745,
+    "DeltaMax": 0.6483,
+    "Emax": 0.2522,
+    "RC1": 0.8308,
+    "RExp1": 1.8586,
     "RC2": 1,
-    "RExp2": 0.615737012,
-    "Chi-Squared": 0.001113495
+    "RExp2": 0.6157
   },
   {
     "Material": "Aluminum",
     "Reference": "Bruining Clean Elemental 1938",
-    "DeltaMax": 0.985249217,
-    "Emax": 0.288187366,
-    "RC1": 0.880361604,
-    "RExp1": 1.762801414,
+    "DeltaMax": 0.9852,
+    "Emax": 0.2882,
+    "RC1": 0.8804,
+    "RExp1": 1.7628,
     "RC2": 1,
-    "RExp2": 0.700556877,
-    "Chi-Squared": 0.000852481
+    "RExp2": 0.7006
   },
   {
     "Material": "Aluminum",
     "Reference": "Bruining, As received 1938",
-    "DeltaMax": 2.148522612,
-    "Emax": 0.357253543,
-    "RC1": 0.620653968,
-    "RExp1": 2.010500883,
+    "DeltaMax": 2.1485,
+    "Emax": 0.3573,
+    "RC1": 0.6207,
+    "RExp1": 2.0105,
     "RC2": 1,
-    "RExp2": 0.45924394,
-    "Chi-Squared": 0.012705969
+    "RExp2": 0.4592
   },
   {
     "Material": "Aluminum",
     "Reference": "Copeland, 1938",
-    "DeltaMax": 3.430827814,
-    "Emax": 0.455578873,
-    "RC1": 0.235772276,
-    "RExp1": 3.193993553,
+    "DeltaMax": 3.4308,
+    "Emax": 0.4556,
+    "RC1": 0.2358,
+    "RExp1": 3.194,
     "RC2": 1,
-    "RExp2": 0.800166954,
-    "Chi-Squared": 0.126742276
+    "RExp2": 0.8002
   },
   {
     "Material": "Aluminum",
     "Reference": "Czaja, 1966",
-    "DeltaMax": 4.072236567,
-    "Emax": 0.254873164,
-    "RC1": 0.4286875,
-    "RExp1": 0.149082719,
+    "DeltaMax": 4.0722,
+    "Emax": 0.2549,
+    "RC1": 0.4287,
+    "RExp1": 0.1491,
     "RC2": 1,
-    "RExp2": 1.724991323,
-    "Chi-Squared": 0.014231618
+    "RExp2": 1.725
   },
   {
     "Material": "Aluminum",
     "Reference": "Farnsworth 1925",
     "DeltaMax": 2.5,
     "Emax": 0.333,
-    "RC1": 1.839041971,
-    "RExp1": 0.498993973,
+    "RC1": 1.839,
+    "RExp1": 0.499,
     "RC2": 1,
-    "RExp2": 1.647049694,
-    "Chi-Squared": 0.003701684
+    "RExp2": 1.647
   },
   {
     "Material": "Aluminum",
@@ -104,54 +95,49 @@
     "DeltaMax": 2.8,
     "Emax": 0.325,
     "RC1": 0.8,
-    "RExp1": 0.478566838,
+    "RExp1": 0.4786,
     "RC2": 1,
-    "RExp2": 1.6,
-    "Chi-Squared": 0.863310429
+    "RExp2": 1.6
   },
   {
     "Material": "Aluminum",
     "Reference": "Grosso sputtered 2013",
-    "DeltaMax": 1.643792496,
-    "Emax": 0.255230647,
-    "RC1": 0.673129299,
-    "RExp1": 0.431906572,
+    "DeltaMax": 1.6438,
+    "Emax": 0.2552,
+    "RC1": 0.6731,
+    "RExp1": 0.4319,
     "RC2": 1,
-    "RExp2": 2.735609561,
-    "Chi-Squared": 0.060469059
+    "RExp2": 2.7356
   },
   {
     "Material": "Aluminum",
     "Reference": "Kanter Bulk, 1961",
-    "DeltaMax": 2.939236258,
-    "Emax": 0.243326628,
-    "RC1": 1.406188347,
-    "RExp1": 0.452368146,
+    "DeltaMax": 2.9392,
+    "Emax": 0.2433,
+    "RC1": 1.4062,
+    "RExp1": 0.4524,
     "RC2": 1,
-    "RExp2": 1.841579773,
-    "Chi-Squared": 0.005465511
+    "RExp2": 1.8416
   },
   {
     "Material": "Aluminum",
     "Reference": "Kanter Thin Film, 1961",
-    "DeltaMax": 2.939236258,
-    "Emax": 0.243326628,
-    "RC1": 1.404899195,
-    "RExp1": 0.527641771,
+    "DeltaMax": 2.9392,
+    "Emax": 0.2433,
+    "RC1": 1.4049,
+    "RExp1": 0.5276,
     "RC2": 1,
-    "RExp2": 1.847628733,
-    "Chi-Squared": 0.001665645
+    "RExp2": 1.8476
   },
   {
     "Material": "Aluminum",
     "Reference": "Moncrieff, 1978",
-    "DeltaMax": 1.747996542,
-    "Emax": 0.291617114,
-    "RC1": 0.834841134,
-    "RExp1": 0.84167189,
+    "DeltaMax": 1.748,
+    "Emax": 0.2916,
+    "RC1": 0.8348,
+    "RExp1": 0.8417,
     "RC2": 1,
-    "RExp2": 1.76084123,
-    "Chi-Squared": 0.000132273
+    "RExp2": 1.7608
   },
   {
     "Material": "Aluminum",
@@ -161,304 +147,3096 @@
     "RC1": 1,
     "RExp1": 0.8,
     "RC2": 1,
-    "RExp2": 1.89,
-    "Chi-Squared": 0.057435342
+    "RExp2": 1.89
   },
   {
     "Material": "Aluminum",
     "Reference": "Shimizu 1974",
-    "DeltaMax": 2.0255708,
-    "Emax": 0.583444531,
-    "RC1": 1.052042788,
-    "RExp1": 1.51454776,
+    "DeltaMax": 2.0256,
+    "Emax": 0.5834,
+    "RC1": 1.052,
+    "RExp1": 1.5145,
     "RC2": 1,
-    "RExp2": 1.967300818,
-    "Chi-Squared": 0.0024429
+    "RExp2": 1.9673
   },
   {
     "Material": "Aluminum",
     "Reference": "USU Roughed 2001",
-    "DeltaMax": 2.350708346,
-    "Emax": 0.331428214,
-    "RC1": 1.791864931,
-    "RExp1": 0.834858191,
+    "DeltaMax": 2.3507,
+    "Emax": 0.3314,
+    "RC1": 1.7919,
+    "RExp1": 0.8349,
     "RC2": 1,
-    "RExp2": 2.019285389,
-    "Chi-Squared": 0.022136529
+    "RExp2": 2.0193
   },
   {
     "Material": "Aluminum",
     "Reference": "USU Smooth 2001",
-    "DeltaMax": 2.031454729,
-    "Emax": 0.317838888,
-    "RC1": 2.165842175,
-    "RExp1": 0.813855892,
+    "DeltaMax": 2.0315,
+    "Emax": 0.3178,
+    "RC1": 2.1658,
+    "RExp1": 0.8139,
     "RC2": 1,
-    "RExp2": 2.075314498,
-    "Chi-Squared": 0.002648859
+    "RExp2": 2.0753
   },
   {
     "Material": "Aluminum",
     "Reference": "Walker Cleaned 2008",
-    "DeltaMax": 2.047370503,
-    "Emax": 0.429868361,
-    "RC1": 2.165842175,
-    "RExp1": 0.813855892,
+    "DeltaMax": 2.0474,
+    "Emax": 0.4299,
+    "RC1": 2.1658,
+    "RExp1": 0.8139,
     "RC2": 1,
-    "RExp2": 1.980689636,
-    "Chi-Squared": 0.02331166
+    "RExp2": 1.9807
   },
   {
     "Material": "Aluminum",
     "Reference": "Walker Native 2008",
-    "DeltaMax": 1.710612845,
-    "Emax": 1.86417244,
-    "RC1": 0.651592158,
-    "RExp1": 0.788017726,
+    "DeltaMax": 1.7106,
+    "Emax": 1.8642,
+    "RC1": 0.6516,
+    "RExp1": 0.788,
     "RC2": 1,
-    "RExp2": 2.088382187,
-    "Chi-Squared": 0.066606368
+    "RExp2": 2.0884
   },
   {
     "Material": "Aluminum",
     "Reference": "Warnecke Annealed 440C 1936",
-    "DeltaMax": 2.780739188,
-    "Emax": 0.392710531,
-    "RC1": 0.229323571,
-    "RExp1": 0.331710216,
+    "DeltaMax": 2.7807,
+    "Emax": 0.3927,
+    "RC1": 0.2293,
+    "RExp1": 0.3317,
     "RC2": 1,
-    "RExp2": 1.391685237,
-    "Chi-Squared": 0.116667892
+    "RExp2": 1.3917
   },
   {
     "Material": "Aluminum",
     "Reference": "Warnecke Annealed 570C 1936",
-    "DeltaMax": 2.522648488,
-    "Emax": 0.338855773,
-    "RC1": 1.131366612,
-    "RExp1": 0.442303575,
+    "DeltaMax": 2.5226,
+    "Emax": 0.3389,
+    "RC1": 1.1314,
+    "RExp1": 0.4423,
     "RC2": 1,
-    "RExp2": 1.666050214,
-    "Chi-Squared": 0.067209175
+    "RExp2": 1.6661
   },
   {
     "Material": "Aluminum",
     "Reference": "Warnecke Native 1936",
-    "DeltaMax": 2.746390565,
-    "Emax": 0.297419716,
-    "RC1": 0.932866527,
-    "RExp1": 0.442303575,
+    "DeltaMax": 2.7464,
+    "Emax": 0.2974,
+    "RC1": 0.9329,
+    "RExp1": 0.4423,
     "RC2": 1,
-    "RExp2": 1.588771188,
-    "Chi-Squared": 0.049243616
+    "RExp2": 1.5888
   },
   {
     "Material": "Antimony",
     "Reference": "Bronstein I M and Fraiman 1969",
-    "DeltaMax": 0.845481119,
-    "Emax": 0.563176579,
+    "DeltaMax": 0.8455,
+    "Emax": 0.5632,
     "RC1": 0.1,
     "RExp1": 0.6,
     "RC2": 1,
-    "RExp2": 1.280572748,
-    "Chi-Squared": 0.004817305
+    "RExp2": 1.2806
   },
   {
     "Material": "Antimony",
     "Reference": "Kaneff 1960",
-    "DeltaMax": 3.240544399,
-    "Emax": 0.330400124,
-    "RC1": 1.140356559,
-    "RExp1": 0.533428097,
+    "DeltaMax": 3.2405,
+    "Emax": 0.3304,
+    "RC1": 1.1404,
+    "RExp1": 0.5334,
     "RC2": 1,
-    "RExp2": 1.963360873,
-    "Chi-Squared": 0.0451972
+    "RExp2": 1.9634
   },
   {
     "Material": "Antimony",
     "Reference": "Reimer 1980",
-    "DeltaMax": 1.644231427,
-    "Emax": 0.932206527,
+    "DeltaMax": 1.6442,
+    "Emax": 0.9322,
     "RC1": 0.1,
     "RExp1": 0.6,
     "RC2": 1,
-    "RExp2": 1.638085619,
-    "Chi-Squared": 0.003363675
+    "RExp2": 1.6381
   },
   {
     "Material": "Barium",
     "Reference": "Bronstein I M and Fraiman 1969",
-    "DeltaMax": 0.548794403,
-    "Emax": 0.332535298,
-    "RC1": 0.895849027,
-    "RExp1": 0.565735679,
+    "DeltaMax": 0.5488,
+    "Emax": 0.3325,
+    "RC1": 0.8958,
+    "RExp1": 0.5657,
     "RC2": 1,
-    "RExp2": 1.627569915,
-    "Chi-Squared": 0.000689792
+    "RExp2": 1.6276
   },
   {
     "Material": "Barium",
     "Reference": "Bruining 1938",
-    "DeltaMax": 0.819954636,
-    "Emax": 0.396063133,
-    "RC1": 1.100410422,
-    "RExp1": 0.460795246,
+    "DeltaMax": 0.82,
+    "Emax": 0.3961,
+    "RC1": 1.1004,
+    "RExp1": 0.4608,
     "RC2": 1,
-    "RExp2": 1.501545537,
-    "Chi-Squared": 0.00388124
+    "RExp2": 1.5015
   },
   {
     "Material": "Barium",
     "Reference": "Bruining, oxidized 1938",
     "DeltaMax": 4.8,
     "Emax": 0.45,
-    "RC1": 1.700852067,
-    "RExp1": 0.464268562,
+    "RC1": 1.7009,
+    "RExp1": 0.4643,
     "RC2": 1,
-    "RExp2": 1.727190064,
-    "Chi-Squared": 0.136177557
+    "RExp2": 1.7272
   },
   {
     "Material": "Beryllium",
     "Reference": "Bronstein I M and Fraiman 1969",
-    "DeltaMax": 0.452264256,
-    "Emax": 0.142424409,
-    "RC1": 0.416384481,
-    "RExp1": 0.550557404,
+    "DeltaMax": 0.4523,
+    "Emax": 0.1424,
+    "RC1": 0.4164,
+    "RExp1": 0.5506,
     "RC2": 1,
-    "RExp2": 1.857237817,
-    "Chi-Squared": 0.002381055
+    "RExp2": 1.8572
   },
   {
     "Material": "Beryllium",
     "Reference": "Bruining 1938",
-    "DeltaMax": 0.566551258,
-    "Emax": 0.162946434,
-    "RC1": 0.416384481,
-    "RExp1": 0.550557404,
+    "DeltaMax": 0.5666,
+    "Emax": 0.1629,
+    "RC1": 0.4164,
+    "RExp1": 0.5506,
     "RC2": 1,
-    "RExp2": 1.728330237,
-    "Chi-Squared": 0.006251012
+    "RExp2": 1.7283
   },
   {
     "Material": "Beryllium",
     "Reference": "Dennison 2007",
-    "DeltaMax": 1.462945559,
-    "Emax": 0.356298995,
-    "RC1": 2.247176613,
-    "RExp1": 0.633206799,
+    "DeltaMax": 1.4629,
+    "Emax": 0.3563,
+    "RC1": 2.2472,
+    "RExp1": 0.6332,
     "RC2": 1,
-    "RExp2": 2.52173586,
-    "Chi-Squared": 0.034390469
+    "RExp2": 2.5217
   },
   {
     "Material": "Beryllium",
     "Reference": "Forman, 1976",
-    "DeltaMax": 1.822857015,
-    "Emax": 0.212835178,
-    "RC1": 0.461444291,
-    "RExp1": 0.81770687,
+    "DeltaMax": 1.8229,
+    "Emax": 0.2128,
+    "RC1": 0.4614,
+    "RExp1": 0.8177,
     "RC2": 1,
-    "RExp2": 1.727805447,
-    "Chi-Squared": 0.001039335
+    "RExp2": 1.7278
   },
   {
     "Material": "Beryllium",
     "Reference": "Luo 1991",
-    "DeltaMax": 4.304697783,
-    "Emax": 0.608702592,
-    "RC1": 0.461444291,
-    "RExp1": 0.81770687,
+    "DeltaMax": 4.3047,
+    "Emax": 0.6087,
+    "RC1": 0.4614,
+    "RExp1": 0.8177,
     "RC2": 1,
-    "RExp2": 1.366771019,
-    "Chi-Squared": 0.055327191
+    "RExp2": 1.3668
   },
   {
     "Material": "Beryllium",
     "Reference": "Reimer 1980",
     "DeltaMax": 2,
     "Emax": 0.45,
-    "RC1": 1.924171328,
-    "RExp1": 0.564321339,
+    "RC1": 1.9242,
+    "RExp1": 0.5643,
     "RC2": 1,
-    "RExp2": 1.947241012,
-    "Chi-Squared": 0.004160528
+    "RExp2": 1.9472
   },
   {
     "Material": "Beryllium",
     "Reference": "Shimizu 1974",
-    "DeltaMax": 2.158100428,
-    "Emax": 0.526314306,
-    "RC1": 2.181117182,
-    "RExp1": 0.337880031,
+    "DeltaMax": 2.1581,
+    "Emax": 0.5263,
+    "RC1": 2.1811,
+    "RExp1": 0.3379,
     "RC2": 1,
-    "RExp2": 2.096882818,
-    "Chi-Squared": 0.01828291
+    "RExp2": 2.0969
   },
   {
     "Material": "Bismuth",
     "Reference": "Bronstein I M and Fraiman 1969",
-    "DeltaMax": 0.893948,
-    "Emax": 0.624465,
-    "RC1": 2.249294231,
-    "RExp1": 0.484025133,
+    "DeltaMax": 0.8939,
+    "Emax": 0.6245,
+    "RC1": 2.2493,
+    "RExp1": 0.484,
     "RC2": 1,
-    "RExp2": 1.602972632,
-    "Chi-Squared": 0.007073081
+    "RExp2": 1.603
   },
   {
     "Material": "Bismuth",
     "Reference": "Reimer 1980",
-    "DeltaMax": 1.986160191,
-    "Emax": 0.412921478,
-    "RC1": 1.637820192,
-    "RExp1": 0.164428285,
+    "DeltaMax": 1.9862,
+    "Emax": 0.4129,
+    "RC1": 1.6378,
+    "RExp1": 0.1644,
     "RC2": 1,
-    "RExp2": 1.577689901,
-    "Chi-Squared": 0.018619855
+    "RExp2": 1.5777
   },
   {
     "Material": "Boron",
     "Reference": "Bronstein I M and Fraiman 1969",
-    "DeltaMax": 1.151964277,
-    "Emax": 0.127319209,
-    "RC1": 0.698874826,
-    "RExp1": 0.710385407,
+    "DeltaMax": 1.152,
+    "Emax": 0.1273,
+    "RC1": 0.6989,
+    "RExp1": 0.7104,
     "RC2": 1,
-    "RExp2": 1.921843828,
-    "Chi-Squared": 0.005679269
+    "RExp2": 1.9218
   },
   {
     "Material": "Cadmium",
     "Reference": "Walker Cleaned 2008",
-    "DeltaMax": 1.497678895,
-    "Emax": 2.478361737,
-    "RC1": 1.52799624,
-    "RExp1": 0.829390307,
+    "DeltaMax": 1.4977,
+    "Emax": 2.4784,
+    "RC1": 1.528,
+    "RExp1": 0.8294,
     "RC2": 1,
-    "RExp2": 1.89716036,
-    "Chi-Squared": 0.047536987
+    "RExp2": 1.8972
   },
   {
     "Material": "Cadmium",
     "Reference": "Walker Native 2008",
-    "DeltaMax": 1.471480577,
-    "Emax": 2.357327013,
-    "RC1": 2.217616971,
-    "RExp1": 1.003094757,
+    "DeltaMax": 1.4715,
+    "Emax": 2.3573,
+    "RC1": 2.2176,
+    "RExp1": 1.0031,
     "RC2": 1,
-    "RExp2": 2.092353168,
-    "Chi-Squared": 0.061391272
+    "RExp2": 2.0924
   },
   {
     "Material": "Caesium",
     "Reference": "Bruining 1938",
-    "DeltaMax": 3.625124532,
-    "Emax": 0.4512324,
-    "RC1": 0.847155047,
-    "RExp1": 0.437897098,
+    "DeltaMax": 3.6251,
+    "Emax": 0.4512,
+    "RC1": 0.8472,
+    "RExp1": 0.4379,
     "RC2": 1,
-    "RExp2": 1.279654486,
-    "Chi-Squared": 0.819895243
+    "RExp2": 1.2797
+  },
+  {
+    "Material": "Carbon",
+    "Reference": "Bongeler, 1993",
+    "DeltaMax": 0.8503,
+    "Emax": 1.0608,
+    "RC1": 0.0599,
+    "RExp1": 0.1434,
+    "RC2": 1,
+    "RExp2": 2.0309
+  },
+  {
+    "Material": "Carbon",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.8695,
+    "Emax": 0.2593,
+    "RC1": 0.9684,
+    "RExp1": 0.4494,
+    "RC2": 1,
+    "RExp2": 1.923
+  },
+  {
+    "Material": "Carbon",
+    "Reference": "Bruining 1938",
+    "DeltaMax": 1.0062,
+    "Emax": 0.2667,
+    "RC1": 0.9684,
+    "RExp1": 0.4494,
+    "RC2": 1,
+    "RExp2": 1.8258
+  },
+  {
+    "Material": "Carbon",
+    "Reference": "Caron 1998",
+    "DeltaMax": 0.7387,
+    "Emax": 0.3488,
+    "RC1": 1.3559,
+    "RExp1": 0.9343,
+    "RC2": 1,
+    "RExp2": 1.5031
+  },
+  {
+    "Material": "Carbon",
+    "Reference": "Forman, 1976",
+    "DeltaMax": 1.2258,
+    "Emax": 0.0716,
+    "RC1": 0.603,
+    "RExp1": 0.7535,
+    "RC2": 1,
+    "RExp2": 1.9515
+  },
+  {
+    "Material": "Carbon",
+    "Reference": "Moncrieff, 1976",
+    "DeltaMax": 0.2,
+    "Emax": 5,
+    "RC1": 4.0208,
+    "RExp1": 1.3641,
+    "RC2": 1,
+    "RExp2": 2.0403
+  },
+  {
+    "Material": "Carbon",
+    "Reference": "Rothwell 1988",
+    "DeltaMax": 1.1131,
+    "Emax": 0.4096,
+    "RC1": 0.9358,
+    "RExp1": 0.8147,
+    "RC2": 1,
+    "RExp2": 2.0822
+  },
+  {
+    "Material": "Carbon",
+    "Reference": "Septier Graphitic 1985",
+    "DeltaMax": 1.1587,
+    "Emax": 0.1456,
+    "RC1": 1.1212,
+    "RExp1": 1.0033,
+    "RC2": 1,
+    "RExp2": 1.9574
+  },
+  {
+    "Material": "Carbon",
+    "Reference": "Septier Soot 1985",
+    "DeltaMax": 0.4577,
+    "Emax": 0.1707,
+    "RC1": 3.3478,
+    "RExp1": 1.0033,
+    "RC2": 1,
+    "RExp2": 0.9984
+  },
+  {
+    "Material": "Carbon (Graphite)",
+    "Reference": "Martsinovskaya, 1965",
+    "DeltaMax": 1.2188,
+    "Emax": 0.3086,
+    "RC1": 1.2987,
+    "RExp1": 0.8873,
+    "RC2": 1,
+    "RExp2": 1.8788
+  },
+  {
+    "Material": "Carbon (HOPG)",
+    "Reference": "LaSeine, (2017)",
+    "DeltaMax": 1.2547,
+    "Emax": 0.2,
+    "RC1": 0.7342,
+    "RExp1": 0.6678,
+    "RC2": 1,
+    "RExp2": 1.8413
+  },
+  {
+    "Material": "Carbon (HOPG)",
+    "Reference": "Onera 2017",
+    "DeltaMax": 1.5015,
+    "Emax": 0.9502,
+    "RC1": 0.9826,
+    "RExp1": 0.6183,
+    "RC2": 1,
+    "RExp2": 1.6561
+  },
+  {
+    "Material": "Carbon (HOPG)",
+    "Reference": "USU (2017)",
+    "DeltaMax": 1.205,
+    "Emax": 0.2038,
+    "RC1": 2.9592,
+    "RExp1": 1.0974,
+    "RC2": 1,
+    "RExp2": 2.1811
+  },
+  {
+    "Material": "Carbon (HOPG)",
+    "Reference": "USU SEE database 2011",
+    "DeltaMax": 1.4903,
+    "Emax": 0.2544,
+    "RC1": 0.1629,
+    "RExp1": 0.5985,
+    "RC2": 1,
+    "RExp2": 1.6657
+  },
+  {
+    "Material": "Carbon (HOPG)",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.3596,
+    "Emax": 1.8013,
+    "RC1": 6.8065,
+    "RExp1": 1.2288,
+    "RC2": 1,
+    "RExp2": 2.5017
+  },
+  {
+    "Material": "Carbon (HOPG)",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.5686,
+    "Emax": 1.8611,
+    "RC1": 0.211,
+    "RExp1": 1.3914,
+    "RC2": 1,
+    "RExp2": 1.9892
+  },
+  {
+    "Material": "Carbon (HOPG)",
+    "Reference": "Wintucky, 1981",
+    "DeltaMax": 1.1518,
+    "Emax": 0.1854,
+    "RC1": 1.3565,
+    "RExp1": 1.1176,
+    "RC2": 1,
+    "RExp2": 1.972
+  },
+  {
+    "Material": "Chromium",
+    "Reference": "Joy 2001",
+    "DeltaMax": 3.4251,
+    "Emax": 0.2805,
+    "RC1": 1.3565,
+    "RExp1": 1.1176,
+    "RC2": 1,
+    "RExp2": 2.1529
+  },
+  {
+    "Material": "Chromium",
+    "Reference": "Prasad 2002",
+    "DeltaMax": 1.7989,
+    "Emax": 0.5763,
+    "RC1": 8.5208,
+    "RExp1": 1.3576,
+    "RC2": 1,
+    "RExp2": 2.1618
+  },
+  {
+    "Material": "Chromium",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.6062,
+    "Emax": 1.9997,
+    "RC1": 1.44,
+    "RExp1": 1.0477,
+    "RC2": 1,
+    "RExp2": 1.8743
+  },
+  {
+    "Material": "Chromium",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.8274,
+    "Emax": 1.4777,
+    "RC1": 1.0368,
+    "RExp1": 1.0864,
+    "RC2": 1,
+    "RExp2": 1.8805
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Baglin Annealed 2000",
+    "DeltaMax": 1.7003,
+    "Emax": 0.4361,
+    "RC1": 0.064,
+    "RExp1": 0.4,
+    "RC2": 1,
+    "RExp2": 1.3224
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Baglin As Received 2000*",
+    "DeltaMax": 2.4034,
+    "Emax": 0.2481,
+    "RC1": 0.6159,
+    "RExp1": 0.4399,
+    "RC2": 1,
+    "RExp2": 1.5119
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Baglin Sputtered 2000*",
+    "DeltaMax": 0.65,
+    "Emax": 0.128,
+    "RC1": 0.2303,
+    "RExp1": 0.5895,
+    "RC2": 1,
+    "RExp2": 2.1678
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 1.0166,
+    "Emax": 0.6405,
+    "RC1": 3.3518,
+    "RExp1": 0.5459,
+    "RC2": 1,
+    "RExp2": 1.8475
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Bruining, 1938",
+    "DeltaMax": 1.2764,
+    "Emax": 0.5797,
+    "RC1": 0.8072,
+    "RExp1": 0.5459,
+    "RC2": 1,
+    "RExp2": 1.3193
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Cimino, 2014",
+    "DeltaMax": 1.3801,
+    "Emax": 0.8562,
+    "RC1": 3.5069,
+    "RExp1": 1.0837,
+    "RC2": 1,
+    "RExp2": 0.4096
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Ding 2001",
+    "DeltaMax": 1.5385,
+    "Emax": 2,
+    "RC1": 1,
+    "RExp1": 0.8,
+    "RC2": 1,
+    "RExp2": 2
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Farnsworth & Goerke 1930",
+    "DeltaMax": 0.3085,
+    "Emax": 0.3278,
+    "RC1": 0.3032,
+    "RExp1": 1.0185,
+    "RC2": 1,
+    "RExp2": 3.6218
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Farnsworth 1925",
+    "DeltaMax": 1.25,
+    "Emax": 0.31,
+    "RC1": 1.4741,
+    "RExp1": 0.8246,
+    "RC2": 1,
+    "RExp2": 1.0771
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Forman, 1976",
+    "DeltaMax": 0.7163,
+    "Emax": 0.1956,
+    "RC1": 0.4262,
+    "RExp1": 0.8246,
+    "RC2": 1,
+    "RExp2": 1.0924
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Gimpel 1943",
+    "DeltaMax": 1.2422,
+    "Emax": 0.2041,
+    "RC1": 2.5854,
+    "RExp1": 0.9046,
+    "RC2": 1,
+    "RExp2": 1.0059
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Kollath 1952",
+    "DeltaMax": 1.2769,
+    "Emax": 0.5686,
+    "RC1": 1.001,
+    "RExp1": 0.5105,
+    "RC2": 1,
+    "RExp2": 1.3901
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Koshikawa, 1973",
+    "DeltaMax": 1.4358,
+    "Emax": 0.6162,
+    "RC1": 1.3191,
+    "RExp1": 1.1232,
+    "RC2": 1,
+    "RExp2": 1.5842
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Moncrieff, 1976",
+    "DeltaMax": 1.741,
+    "Emax": 0.2597,
+    "RC1": 1.0665,
+    "RExp1": 0.7282,
+    "RC2": 1,
+    "RExp2": 1.7487
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Myers, 1952",
+    "DeltaMax": 3.1423,
+    "Emax": 0.4992,
+    "RC1": 1.0665,
+    "RExp1": 0.7282,
+    "RC2": 1,
+    "RExp2": 1.6731
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Petry 1926",
+    "DeltaMax": 1.2915,
+    "Emax": 0.2326,
+    "RC1": 0.7303,
+    "RExp1": 0.4438,
+    "RC2": 1,
+    "RExp2": 1.6898
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Septier 1985",
+    "DeltaMax": 1.58,
+    "Emax": 0.24,
+    "RC1": 1.0854,
+    "RExp1": 0.6101,
+    "RC2": 1,
+    "RExp2": 1.7646
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Septier Sputtered 1985",
+    "DeltaMax": 1.5919,
+    "Emax": 0.1837,
+    "RC1": 0.7108,
+    "RExp1": 0.6101,
+    "RC2": 1,
+    "RExp2": 1.5295
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Shimizu 1974",
+    "DeltaMax": 1.3182,
+    "Emax": 0.1739,
+    "RC1": 0.9383,
+    "RExp1": 0.3907,
+    "RC2": 1,
+    "RExp2": 1.7214
+  },
+  {
+    "Material": "Copper",
+    "Reference": "USU SEE database 2011",
+    "DeltaMax": 1.073,
+    "Emax": 0.5752,
+    "RC1": 2.4334,
+    "RExp1": 0.6344,
+    "RC2": 1,
+    "RExp2": 1.8395
+  },
+  {
+    "Material": "Copper",
+    "Reference": "USU Technical 2001",
+    "DeltaMax": 1.3529,
+    "Emax": 0.2516,
+    "RC1": 1.6712,
+    "RExp1": 0.7671,
+    "RC2": 1,
+    "RExp2": 1.8085
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 0.9567,
+    "Emax": 0.73,
+    "RC1": 1.7533,
+    "RExp1": 0.9324,
+    "RC2": 1,
+    "RExp2": 1.7904
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.2044,
+    "Emax": 0.188,
+    "RC1": 2.3451,
+    "RExp1": 1.0699,
+    "RC2": 1,
+    "RExp2": 1.9087
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Warnecke Annealed 440C 1936",
+    "DeltaMax": 1.3755,
+    "Emax": 0.4338,
+    "RC1": 0.5664,
+    "RExp1": 0.4389,
+    "RC2": 1,
+    "RExp2": 1.224
+  },
+  {
+    "Material": "Copper",
+    "Reference": "Warnecke Native 1936",
+    "DeltaMax": 1.5906,
+    "Emax": 0.3529,
+    "RC1": 0.6699,
+    "RExp1": 0.4323,
+    "RC2": 1,
+    "RExp2": 1.2313
+  },
+  {
+    "Material": "Diamond (CVD diamond activated with CsI)",
+    "Reference": "Mearini 1995",
+    "DeltaMax": 90,
+    "Emax": 0.3529,
+    "RC1": 0.0555,
+    "RExp1": 0.7486,
+    "RC2": 1,
+    "RExp2": 0
+  },
+  {
+    "Material": "Gadonlinium",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 0.8884,
+    "Emax": 0.8114,
+    "RC1": 0.4291,
+    "RExp1": 1.7137,
+    "RC2": 1,
+    "RExp2": 1.1429
+  },
+  {
+    "Material": "Gadonlinium",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 0.8399,
+    "Emax": 0.7315,
+    "RC1": 0.4266,
+    "RExp1": 1.7877,
+    "RC2": 1,
+    "RExp2": 0.5176
+  },
+  {
+    "Material": "Gallium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.7404,
+    "Emax": 0.416,
+    "RC1": 1.6032,
+    "RExp1": 0.594,
+    "RC2": 1,
+    "RExp2": 1.7225
+  },
+  {
+    "Material": "Germanium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.769,
+    "Emax": 0.3605,
+    "RC1": 2.9246,
+    "RExp1": 0.9567,
+    "RC2": 1,
+    "RExp2": 2.0492
+  },
+  {
+    "Material": "Germanium",
+    "Reference": "Johnson, 1954",
+    "DeltaMax": 1.1379,
+    "Emax": 0.4226,
+    "RC1": 1.4591,
+    "RExp1": 0.5442,
+    "RC2": 1,
+    "RExp2": 1.7446
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Bongeler, 1993",
+    "DeltaMax": 1.882,
+    "Emax": 0.321,
+    "RC1": 1.4591,
+    "RExp1": 0.5442,
+    "RC2": 1,
+    "RExp2": 1.8777
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 1.3725,
+    "Emax": 0.6607,
+    "RC1": 2.0306,
+    "RExp1": 0.5388,
+    "RC2": 1,
+    "RExp2": 1.5321
+  },
+  {
+    "Material": "Gold",
+    "Reference": "CSIC, 2017",
+    "DeltaMax": 2.0411,
+    "Emax": 0.3212,
+    "RC1": 0.355,
+    "RExp1": 0.5388,
+    "RC2": 1,
+    "RExp2": 1.1585
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Ding 2001",
+    "DeltaMax": 1.75,
+    "Emax": 2.22,
+    "RC1": 1.5029,
+    "RExp1": 0.6334,
+    "RC2": 1,
+    "RExp2": 1.2017
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Kit, 2017",
+    "DeltaMax": 2.35,
+    "Emax": 0.2429,
+    "RC1": 1.0047,
+    "RExp1": 0.622,
+    "RC2": 1,
+    "RExp2": 1.5069
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Moncrieff, 1976",
+    "DeltaMax": 2.0791,
+    "Emax": 0.1597,
+    "RC1": 1.1415,
+    "RExp1": 0.7603,
+    "RC2": 1,
+    "RExp2": 1.6659
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Nickles, (2017)",
+    "DeltaMax": 2.2298,
+    "Emax": 0.7724,
+    "RC1": 1.1871,
+    "RExp1": 0.5079,
+    "RC2": 1,
+    "RExp2": 1.3039
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Onera 2017",
+    "DeltaMax": 1.8009,
+    "Emax": 0.2749,
+    "RC1": 0.6436,
+    "RExp1": 0.5718,
+    "RC2": 1,
+    "RExp2": 1.317
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Prasad 2002",
+    "DeltaMax": 1.8149,
+    "Emax": 0.6896,
+    "RC1": 1.6323,
+    "RExp1": 0.6619,
+    "RC2": 1,
+    "RExp2": 1.7613
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Reimer 1980",
+    "DeltaMax": 1.6519,
+    "Emax": 1.0574,
+    "RC1": 1.2636,
+    "RExp1": 1.233,
+    "RC2": 1,
+    "RExp2": 1.7112
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Rothwell 1988",
+    "DeltaMax": 1.5339,
+    "Emax": 0.6374,
+    "RC1": 1.2636,
+    "RExp1": 1.233,
+    "RC2": 1,
+    "RExp2": 1.582
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Suszcynsky 1992",
+    "DeltaMax": 0.839,
+    "Emax": 1.3875,
+    "RC1": 1.6084,
+    "RExp1": 0.9405,
+    "RC2": 1,
+    "RExp2": 1.8488
+  },
+  {
+    "Material": "Gold",
+    "Reference": "TNP 2017",
+    "DeltaMax": 2.1187,
+    "Emax": 0.6947,
+    "RC1": 0.2315,
+    "RExp1": 0.494,
+    "RC2": 1,
+    "RExp2": 1.0615
+  },
+  {
+    "Material": "Gold",
+    "Reference": "USU 2011",
+    "DeltaMax": 1.2596,
+    "Emax": 0.5365,
+    "RC1": 1,
+    "RExp1": 0.5676,
+    "RC2": 1,
+    "RExp2": 1.4879
+  },
+  {
+    "Material": "Gold",
+    "Reference": "USU Round Robin 2017",
+    "DeltaMax": 1.8512,
+    "Emax": 0.2688,
+    "RC1": 1,
+    "RExp1": 0.5676,
+    "RC2": 1,
+    "RExp2": 1.6008
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.7267,
+    "Emax": 2.6755,
+    "RC1": 1.5637,
+    "RExp1": 1.0906,
+    "RC2": 1,
+    "RExp2": 1.8325
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.5638,
+    "Emax": 1.8992,
+    "RC1": 1.5513,
+    "RExp1": 1.0335,
+    "RC2": 1,
+    "RExp2": 1.6497
+  },
+  {
+    "Material": "Gold",
+    "Reference": "Wilson 2017",
+    "DeltaMax": 1.5387,
+    "Emax": 0.2827,
+    "RC1": 1.4738,
+    "RExp1": 0.8373,
+    "RC2": 1,
+    "RExp2": 1.4082
+  },
+  {
+    "Material": "Hafnium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 1.435,
+    "Emax": 0.7233,
+    "RC1": 0.0107,
+    "RExp1": 0.5013,
+    "RC2": 1,
+    "RExp2": 2.2385
+  },
+  {
+    "Material": "Hydrogen",
+    "Reference": "Baglin 2000",
+    "DeltaMax": 1.0634,
+    "Emax": 0.0407,
+    "RC1": 0.127,
+    "RExp1": 0.5355,
+    "RC2": 1,
+    "RExp2": 1.4084
+  },
+  {
+    "Material": "Hydrogen",
+    "Reference": "Sorenson 1977",
+    "DeltaMax": 1.1197,
+    "Emax": 0.0238,
+    "RC1": 0.1629,
+    "RExp1": 0.5037,
+    "RC2": 1,
+    "RExp2": 1.7677
+  },
+  {
+    "Material": "Indium",
+    "Reference": "Arifov 1971",
+    "DeltaMax": 1.2412,
+    "Emax": 0.5112,
+    "RC1": 0.7943,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.5079
+  },
+  {
+    "Material": "Indium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 1.0752,
+    "Emax": 0.3377,
+    "RC1": 0.9735,
+    "RExp1": 0.3821,
+    "RC2": 1,
+    "RExp2": 1.5322
+  },
+  {
+    "Material": "Indium",
+    "Reference": "Reimer 1980",
+    "DeltaMax": 1.6871,
+    "Emax": 0.7783,
+    "RC1": 1.3614,
+    "RExp1": 0.3821,
+    "RC2": 1,
+    "RExp2": 1.7016
+  },
+  {
+    "Material": "Iron",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.5425,
+    "Emax": 1.853,
+    "RC1": 1.117,
+    "RExp1": 0.8144,
+    "RC2": 1,
+    "RExp2": 2.0153
+  },
+  {
+    "Material": "Iron",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.8628,
+    "Emax": 1.3073,
+    "RC1": 1.117,
+    "RExp1": 0.8144,
+    "RC2": 1,
+    "RExp2": 1.8705
+  },
+  {
+    "Material": "Lanthanum",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.7256,
+    "Emax": 0.412,
+    "RC1": 1.6553,
+    "RExp1": 0.7369,
+    "RC2": 1,
+    "RExp2": 1.7326
+  },
+  {
+    "Material": "Lead",
+    "Reference": "Bronshtein and Fraiman, (1969)",
+    "DeltaMax": 1.6,
+    "Emax": 2.3,
+    "RC1": 0.637,
+    "RExp1": 0.8563,
+    "RC2": 1,
+    "RExp2": 1.5807
+  },
+  {
+    "Material": "Lead",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.55,
+    "Emax": 2.5,
+    "RC1": 0.4504,
+    "RExp1": 0.8233,
+    "RC2": 1,
+    "RExp2": 1.561
+  },
+  {
+    "Material": "Lead",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.5885,
+    "Emax": 1.3249,
+    "RC1": 1.1951,
+    "RExp1": 0.8192,
+    "RC2": 1,
+    "RExp2": 1.6337
+  },
+  {
+    "Material": "Lithium",
+    "Reference": "Bruining, 1938",
+    "DeltaMax": 0.5713,
+    "Emax": 0.0994,
+    "RC1": 0.1158,
+    "RExp1": 0.343,
+    "RC2": 1,
+    "RExp2": 1.3733
+  },
+  {
+    "Material": "Magnesium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.6954,
+    "Emax": 0.2238,
+    "RC1": 0.3152,
+    "RExp1": 0.385,
+    "RC2": 1,
+    "RExp2": 1.521
+  },
+  {
+    "Material": "Magnesium",
+    "Reference": "Bruining, 1938",
+    "DeltaMax": 0.9776,
+    "Emax": 0.2376,
+    "RC1": 0.3152,
+    "RExp1": 0.385,
+    "RC2": 1,
+    "RExp2": 1.4201
+  },
+  {
+    "Material": "Mercury",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 1.2264,
+    "Emax": 0.6077,
+    "RC1": 1.0037,
+    "RExp1": 0.5688,
+    "RC2": 1,
+    "RExp2": 1.465
+  },
+  {
+    "Material": "Molybdenum",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.8879,
+    "Emax": 0.4559,
+    "RC1": 1.2337,
+    "RExp1": 0.4282,
+    "RC2": 1,
+    "RExp2": 1.4669
+  },
+  {
+    "Material": "Molybdenum",
+    "Reference": "Dennison 2007",
+    "DeltaMax": 0.7936,
+    "Emax": 0.2332,
+    "RC1": 0.4062,
+    "RExp1": 0.6976,
+    "RC2": 1,
+    "RExp2": 1.2772
+  },
+  {
+    "Material": "Molybdenum",
+    "Reference": "Ding 2001",
+    "DeltaMax": 1.78,
+    "Emax": 2.1,
+    "RC1": 0.3,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.6
+  },
+  {
+    "Material": "Molybdenum",
+    "Reference": "Moncrieff, 1978",
+    "DeltaMax": 0.9114,
+    "Emax": 2.0395,
+    "RC1": 0.3325,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.6347
+  },
+  {
+    "Material": "Molybdenum",
+    "Reference": "Prasad 2002",
+    "DeltaMax": 1.5623,
+    "Emax": 0.6234,
+    "RC1": 0.5872,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.562
+  },
+  {
+    "Material": "Molybdenum",
+    "Reference": "Reimer 1980",
+    "DeltaMax": 1.6206,
+    "Emax": 0.8452,
+    "RC1": 1.2598,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.7394
+  },
+  {
+    "Material": "Molybdenum",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.5206,
+    "Emax": 1.9096,
+    "RC1": 1.6079,
+    "RExp1": 1.0395,
+    "RC2": 1,
+    "RExp2": 1.9938
+  },
+  {
+    "Material": "Molybdenum",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.7281,
+    "Emax": 1.8599,
+    "RC1": 2.2625,
+    "RExp1": 1.2033,
+    "RC2": 1,
+    "RExp2": 2.151
+  },
+  {
+    "Material": "Nickel",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 1.0185,
+    "Emax": 0.6008,
+    "RC1": 1.3403,
+    "RExp1": 0.5795,
+    "RC2": 1,
+    "RExp2": 1.5621
+  },
+  {
+    "Material": "Nickel",
+    "Reference": "Luo, 1991",
+    "DeltaMax": 1.2928,
+    "Emax": 0.8045,
+    "RC1": 0.12,
+    "RExp1": 0.472,
+    "RC2": 1,
+    "RExp2": 1.081
+  },
+  {
+    "Material": "Nickel",
+    "Reference": "Pattinson, 1969",
+    "DeltaMax": 1.3464,
+    "Emax": 0.4046,
+    "RC1": 0.3032,
+    "RExp1": 0.4956,
+    "RC2": 1,
+    "RExp2": 1.2624
+  },
+  {
+    "Material": "Nickel",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.5,
+    "Emax": 2.3,
+    "RC1": 0.1087,
+    "RExp1": 0.1856,
+    "RC2": 1,
+    "RExp2": 2.114
+  },
+  {
+    "Material": "Nickel",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.8652,
+    "Emax": 1.9048,
+    "RC1": 0.0107,
+    "RExp1": 0.1856,
+    "RC2": 1,
+    "RExp2": 1.8616
+  },
+  {
+    "Material": "Nickel",
+    "Reference": "Whetten 1962",
+    "DeltaMax": 1.3888,
+    "Emax": 0.3716,
+    "RC1": 0.1038,
+    "RExp1": 0.1856,
+    "RC2": 1,
+    "RExp2": 1.4493
+  },
+  {
+    "Material": "Niobium",
+    "Reference": "Ding 2001",
+    "DeltaMax": 1.8,
+    "Emax": 1.8,
+    "RC1": 0.4322,
+    "RExp1": 0.7486,
+    "RC2": 1,
+    "RExp2": 1.3073
+  },
+  {
+    "Material": "Niobium",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.5237,
+    "Emax": 1.6982,
+    "RC1": 0.7468,
+    "RExp1": 0.7486,
+    "RC2": 1,
+    "RExp2": 1.786
+  },
+  {
+    "Material": "Niobium",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.9069,
+    "Emax": 1.433,
+    "RC1": 1.0754,
+    "RExp1": 0.7486,
+    "RC2": 1,
+    "RExp2": 1.75
+  },
+  {
+    "Material": "Palladium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 1.4071,
+    "Emax": 0.5439,
+    "RC1": 2.0057,
+    "RExp1": 0.5543,
+    "RC2": 1,
+    "RExp2": 1.7586
+  },
+  {
+    "Material": "Palladium",
+    "Reference": "Prasad 2002",
+    "DeltaMax": 1.9319,
+    "Emax": 0.6617,
+    "RC1": 0.2,
+    "RExp1": 0.2,
+    "RC2": 1,
+    "RExp2": 1.6191
+  },
+  {
+    "Material": "Platinum",
+    "Reference": "Ding 2001",
+    "DeltaMax": 1.8,
+    "Emax": 2.25,
+    "RC1": 1.6553,
+    "RExp1": 0.6224,
+    "RC2": 1,
+    "RExp2": 1.2109
+  },
+  {
+    "Material": "Platinum",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.7758,
+    "Emax": 2.5037,
+    "RC1": 1.7337,
+    "RExp1": 0.9172,
+    "RC2": 1,
+    "RExp2": 1.9617
+  },
+  {
+    "Material": "Platinum",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.6918,
+    "Emax": 1.7077,
+    "RC1": 1.7337,
+    "RExp1": 0.9172,
+    "RC2": 1,
+    "RExp2": 1.9405
+  },
+  {
+    "Material": "Potassium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.2641,
+    "Emax": 0.2284,
+    "RC1": 5.4109,
+    "RExp1": 1.2126,
+    "RC2": 1,
+    "RExp2": 2.1616
+  },
+  {
+    "Material": "Rhenium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 1.1993,
+    "Emax": 0.4739,
+    "RC1": 1.8621,
+    "RExp1": 1.3145,
+    "RC2": 1,
+    "RExp2": 0.4832
+  },
+  {
+    "Material": "Selenium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.8618,
+    "Emax": 0.1982,
+    "RC1": 0.5,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.4531
+  },
+  {
+    "Material": "Silicon",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.7662,
+    "Emax": 0.2637,
+    "RC1": 0.8042,
+    "RExp1": 0.6062,
+    "RC2": 1,
+    "RExp2": 1.9244
+  },
+  {
+    "Material": "Silicon",
+    "Reference": "Christensen 2018",
+    "DeltaMax": 1.654,
+    "Emax": 0.2015,
+    "RC1": 1.1239,
+    "RExp1": 0.6873,
+    "RC2": 1,
+    "RExp2": 1.873
+  },
+  {
+    "Material": "Silicon",
+    "Reference": "Czaja, 1966",
+    "DeltaMax": 3.6181,
+    "Emax": 0.538,
+    "RC1": 0.1152,
+    "RExp1": 0.6,
+    "RC2": 1,
+    "RExp2": 2.0272
+  },
+  {
+    "Material": "Silicon",
+    "Reference": "Ding 2001",
+    "DeltaMax": 1.425,
+    "Emax": 1.8,
+    "RC1": 0.8,
+    "RExp1": 0.795,
+    "RC2": 1,
+    "RExp2": 1.9039
+  },
+  {
+    "Material": "Silicon",
+    "Reference": "Dionne 1973",
+    "DeltaMax": 0.9818,
+    "Emax": 0.865,
+    "RC1": 0.4452,
+    "RExp1": 1.6241,
+    "RC2": 1,
+    "RExp2": 1.7917
+  },
+  {
+    "Material": "Silicon",
+    "Reference": "Dionne 1975",
+    "DeltaMax": 1.1713,
+    "Emax": 0.3231,
+    "RC1": 1,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.6
+  },
+  {
+    "Material": "Silicon",
+    "Reference": "Joy Amorphous 1996",
+    "DeltaMax": 1.5541,
+    "Emax": 0.3074,
+    "RC1": 0.5,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.675
+  },
+  {
+    "Material": "Silicon",
+    "Reference": "Reimer 1980",
+    "DeltaMax": 2.138,
+    "Emax": 0.4541,
+    "RC1": 0.5,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.7221
+  },
+  {
+    "Material": "Silicon",
+    "Reference": "Rothwell 1988",
+    "DeltaMax": 0.9275,
+    "Emax": 0.1595,
+    "RC1": 0.67,
+    "RExp1": 0.3483,
+    "RC2": 1,
+    "RExp2": 1.6237
+  },
+  {
+    "Material": "Silicon",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.0865,
+    "Emax": 0.4353,
+    "RC1": 1.1728,
+    "RExp1": 0.6224,
+    "RC2": 1,
+    "RExp2": 1.7685
+  },
+  {
+    "Material": "Silicon",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.6152,
+    "Emax": 1.5309,
+    "RC1": 1.9754,
+    "RExp1": 1.0138,
+    "RC2": 1,
+    "RExp2": 2.0184
+  },
+  {
+    "Material": "Silver",
+    "Reference": "Bongeler, 1993",
+    "DeltaMax": 1.2895,
+    "Emax": 0.7281,
+    "RC1": 0.8,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.675
+  },
+  {
+    "Material": "Silver",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 1.3936,
+    "Emax": 0.5404,
+    "RC1": 1.2165,
+    "RExp1": 0.5774,
+    "RC2": 1,
+    "RExp2": 1.6993
+  },
+  {
+    "Material": "Silver",
+    "Reference": "Bruining, 1938",
+    "DeltaMax": 1.5652,
+    "Emax": 0.7307,
+    "RC1": 0.7733,
+    "RExp1": 0.5375,
+    "RC2": 1,
+    "RExp2": 1.2197
+  },
+  {
+    "Material": "Silver",
+    "Reference": "Ding 2001",
+    "DeltaMax": 1.9,
+    "Emax": 2,
+    "RC1": 0.2653,
+    "RExp1": 0.5794,
+    "RC2": 1,
+    "RExp2": 1.5
+  },
+  {
+    "Material": "Silver",
+    "Reference": "Moncrieff, 1976",
+    "DeltaMax": 0.943,
+    "Emax": 2.1278,
+    "RC1": 0.6535,
+    "RExp1": 0.8988,
+    "RC2": 1,
+    "RExp2": 1.7022
+  },
+  {
+    "Material": "Silver",
+    "Reference": "Myers, 1952",
+    "DeltaMax": 3.9842,
+    "Emax": 0.5847,
+    "RC1": 0.7842,
+    "RExp1": 0.8988,
+    "RC2": 1,
+    "RExp2": 1.2011
+  },
+  {
+    "Material": "Silver",
+    "Reference": "Reimer 1980",
+    "DeltaMax": 2.2208,
+    "Emax": 0.3728,
+    "RC1": 0.7,
+    "RExp1": 0.9695,
+    "RC2": 1,
+    "RExp2": 1.7
+  },
+  {
+    "Material": "Silver",
+    "Reference": "USU 2011",
+    "DeltaMax": 1.4099,
+    "Emax": 0.356,
+    "RC1": 1.7196,
+    "RExp1": 0.6577,
+    "RC2": 1,
+    "RExp2": 1.7781
+  },
+  {
+    "Material": "Silver",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.6,
+    "Emax": 2.7,
+    "RC1": 2.398,
+    "RExp1": 0.3713,
+    "RC2": 1,
+    "RExp2": 1.9468
+  },
+  {
+    "Material": "Silver",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.6917,
+    "Emax": 1.8303,
+    "RC1": 0,
+    "RExp1": 0.3713,
+    "RC2": 1,
+    "RExp2": 1.7354
+  },
+  {
+    "Material": "Strontium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.4915,
+    "Emax": 0.2206,
+    "RC1": 0.6294,
+    "RExp1": 0.6048,
+    "RC2": 1,
+    "RExp2": 1.6823
+  },
+  {
+    "Material": "Tantalum",
+    "Reference": "Ding 2001",
+    "DeltaMax": 1.4467,
+    "Emax": 2.32,
+    "RC1": 1.7959,
+    "RExp1": 0.7604,
+    "RC2": 1,
+    "RExp2": 1.1845
+  },
+  {
+    "Material": "Tantalum",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.5897,
+    "Emax": 1.7952,
+    "RC1": 0.0168,
+    "RExp1": 0.8737,
+    "RC2": 1,
+    "RExp2": 1.5006
+  },
+  {
+    "Material": "Tantalum",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.8671,
+    "Emax": 1.4834,
+    "RC1": 0.2867,
+    "RExp1": 0.8737,
+    "RC2": 1,
+    "RExp2": 1.57
+  },
+  {
+    "Material": "Tellurium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.822,
+    "Emax": 0.3222,
+    "RC1": 0.9313,
+    "RExp1": 0.3836,
+    "RC2": 1,
+    "RExp2": 1.5277
+  },
+  {
+    "Material": "Tellurium",
+    "Reference": "Reimer 1980",
+    "DeltaMax": 1.6817,
+    "Emax": 0.7846,
+    "RC1": 0.9313,
+    "RExp1": 0.3836,
+    "RC2": 1,
+    "RExp2": 1.6503
+  },
+  {
+    "Material": "Thallium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 1.0399,
+    "Emax": 0.4064,
+    "RC1": 1.0369,
+    "RExp1": 0.3836,
+    "RC2": 1,
+    "RExp2": 1.4511
+  },
+  {
+    "Material": "Tin",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.6116,
+    "Emax": 1.9977,
+    "RC1": 1.081,
+    "RExp1": 0.6248,
+    "RC2": 1,
+    "RExp2": 1.6933
+  },
+  {
+    "Material": "Tin",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.9164,
+    "Emax": 1.2174,
+    "RC1": 1.081,
+    "RExp1": 0.6248,
+    "RC2": 1,
+    "RExp2": 1.6587
+  },
+  {
+    "Material": "Titanium",
+    "Reference": "Baglin 2000*",
+    "DeltaMax": 1.7359,
+    "Emax": 0.2194,
+    "RC1": 0.4728,
+    "RExp1": 0.516,
+    "RC2": 1,
+    "RExp2": 1.6117
+  },
+  {
+    "Material": "Titanium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.5798,
+    "Emax": 0.2644,
+    "RC1": 0.813,
+    "RExp1": 0.4902,
+    "RC2": 1,
+    "RExp2": 1.7409
+  },
+  {
+    "Material": "Titanium",
+    "Reference": "Joy, 1996",
+    "DeltaMax": 0.8391,
+    "Emax": 0.8775,
+    "RC1": 0.7923,
+    "RExp1": 0.7885,
+    "RC2": 1,
+    "RExp2": 1.595
+  },
+  {
+    "Material": "Titanium",
+    "Reference": "Thompson 2005",
+    "DeltaMax": 1.542,
+    "Emax": 0.2654,
+    "RC1": 1.0086,
+    "RExp1": 0.4887,
+    "RC2": 1,
+    "RExp2": 1.897
+  },
+  {
+    "Material": "Titanium",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 0.9495,
+    "Emax": 0.3607,
+    "RC1": 0.7923,
+    "RExp1": 0.7885,
+    "RC2": 1,
+    "RExp2": 1.7543
+  },
+  {
+    "Material": "Titanium",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.1289,
+    "Emax": 0.3314,
+    "RC1": 0.7923,
+    "RExp1": 0.7885,
+    "RC2": 1,
+    "RExp2": 1.8461
+  },
+  {
+    "Material": "Tungsten",
+    "Reference": "Ahearn, 1931",
+    "DeltaMax": 1.0182,
+    "Emax": 0.2112,
+    "RC1": 0.7904,
+    "RExp1": 0.7885,
+    "RC2": 1,
+    "RExp2": 1.297
+  },
+  {
+    "Material": "Tungsten",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.9167,
+    "Emax": 0.4669,
+    "RC1": 2.4596,
+    "RExp1": 0.8895,
+    "RC2": 1,
+    "RExp2": 1.2618
+  },
+  {
+    "Material": "Tungsten",
+    "Reference": "Ding 2001",
+    "DeltaMax": 1.52,
+    "Emax": 2.32,
+    "RC1": 0,
+    "RExp1": 0.9586,
+    "RC2": 1,
+    "RExp2": 1.6
+  },
+  {
+    "Material": "Tungsten",
+    "Reference": "Krefft 1250 k (1928)",
+    "DeltaMax": 1.258,
+    "Emax": 0.6241,
+    "RC1": 0.2346,
+    "RExp1": 0.4987,
+    "RC2": 1,
+    "RExp2": 1.1382
+  },
+  {
+    "Material": "Tungsten",
+    "Reference": "Krefft 1270 k (1928)",
+    "DeltaMax": 1.3668,
+    "Emax": 0.6849,
+    "RC1": 0.2815,
+    "RExp1": 0.4987,
+    "RC2": 1,
+    "RExp2": 1.1382
+  },
+  {
+    "Material": "Tungsten",
+    "Reference": "Krefft RT (1928)",
+    "DeltaMax": 1.0254,
+    "Emax": 0.3147,
+    "RC1": 0.2408,
+    "RExp1": 0.4022,
+    "RC2": 1,
+    "RExp2": 0.9708
+  },
+  {
+    "Material": "Tungsten",
+    "Reference": "Petry 1926",
+    "DeltaMax": 1.3785,
+    "Emax": 0.7829,
+    "RC1": 0.2896,
+    "RExp1": 0.7639,
+    "RC2": 1,
+    "RExp2": 0.9108
+  },
+  {
+    "Material": "Tungsten",
+    "Reference": "Reimer 1980",
+    "DeltaMax": 1.6979,
+    "Emax": 1.2678,
+    "RC1": 0.3476,
+    "RExp1": 0.7639,
+    "RC2": 1,
+    "RExp2": 1.7252
+  },
+  {
+    "Material": "Tungsten",
+    "Reference": "USU 2017",
+    "DeltaMax": 1.8064,
+    "Emax": 0.1986,
+    "RC1": 0.7069,
+    "RExp1": 0.5779,
+    "RC2": 1,
+    "RExp2": 1.5516
+  },
+  {
+    "Material": "Tungsten",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.5,
+    "Emax": 2.5,
+    "RC1": 0.4224,
+    "RExp1": 0.3588,
+    "RC2": 1,
+    "RExp2": 1.8756
+  },
+  {
+    "Material": "Tungsten",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.5975,
+    "Emax": 1.8073,
+    "RC1": 0.7299,
+    "RExp1": 0.5844,
+    "RC2": 1,
+    "RExp2": 1.6586
+  },
+  {
+    "Material": "Vanadium",
+    "Reference": "Ding 2001",
+    "DeltaMax": 1.62,
+    "Emax": 1.8,
+    "RC1": 0.4322,
+    "RExp1": 0.5972,
+    "RC2": 1,
+    "RExp2": 1.5
+  },
+  {
+    "Material": "Vanadium",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.4763,
+    "Emax": 1.8002,
+    "RC1": 0.7468,
+    "RExp1": 0.5972,
+    "RC2": 1,
+    "RExp2": 2.0272
+  },
+  {
+    "Material": "Vanadium",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.8419,
+    "Emax": 1.404,
+    "RC1": 1.2905,
+    "RExp1": 0.5972,
+    "RC2": 1,
+    "RExp2": 1.7934
+  },
+  {
+    "Material": "Yttrium",
+    "Reference": "Bronstein I M and Fraiman 1969",
+    "DeltaMax": 0.6453,
+    "Emax": 0.3417,
+    "RC1": 0.5223,
+    "RExp1": 0.5513,
+    "RC2": 1,
+    "RExp2": 1.5468
+  },
+  {
+    "Material": "Zinc",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.6,
+    "Emax": 2.8,
+    "RC1": 0.2496,
+    "RExp1": 0.4346,
+    "RC2": 1,
+    "RExp2": 2.2093
+  },
+  {
+    "Material": "Zinc",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.7724,
+    "Emax": 1.5362,
+    "RC1": 1.2688,
+    "RExp1": 0.708,
+    "RC2": 1,
+    "RExp2": 1.7814
+  },
+  {
+    "Material": "Zirconium",
+    "Reference": "Walker Cleaned 2008",
+    "DeltaMax": 1.992,
+    "Emax": 1.8,
+    "RC1": 0.195,
+    "RExp1": 0.62,
+    "RC2": 1,
+    "RExp2": 1.472
+  },
+  {
+    "Material": "Zirconium",
+    "Reference": "Walker Native 2008",
+    "DeltaMax": 1.875,
+    "Emax": 1.65,
+    "RC1": 0.3614,
+    "RExp1": 0.5832,
+    "RC2": 1,
+    "RExp2": 1.7531
+  },
+  {
+    "Material": "Aclar",
+    "Reference": "Gross (1983)",
+    "DeltaMax": 1.9827,
+    "Emax": 0.2878,
+    "RC1": 0,
+    "RExp1": 0.4,
+    "RC2": 1,
+    "RExp2": 1.4616
+  },
+  {
+    "Material": "Al Kap ITO",
+    "Reference": "USU, 2011",
+    "DeltaMax": 1.8606,
+    "Emax": 0.2965,
+    "RC1": 1,
+    "RExp1": 0.5092,
+    "RC2": 1,
+    "RExp2": 1.9261
+  },
+  {
+    "Material": "Al Kap ITO(2nd run)",
+    "Reference": "USU, 2011",
+    "DeltaMax": 1.749,
+    "Emax": 0.2855,
+    "RC1": 1.1324,
+    "RExp1": 0.5067,
+    "RC2": 1,
+    "RExp2": 1.9386
+  },
+  {
+    "Material": "Al PET (Wire insullation",
+    "Reference": "USU, 2011",
+    "DeltaMax": 1.686,
+    "Emax": 0.2752,
+    "RC1": 1.2952,
+    "RExp1": 0.603,
+    "RC2": 1,
+    "RExp2": 1.9122
+  },
+  {
+    "Material": "Al Pl",
+    "Reference": "USU, 2011",
+    "DeltaMax": 1.6077,
+    "Emax": 0.3123,
+    "RC1": 1,
+    "RExp1": 0.5442,
+    "RC2": 1,
+    "RExp2": 1.9718
+  },
+  {
+    "Material": "Al2O3",
+    "Reference": "Inguimbert (2003)",
+    "DeltaMax": 4.7777,
+    "Emax": 0.3289,
+    "RC1": 1,
+    "RExp1": 0.52,
+    "RC2": 1,
+    "RExp2": 2
+  },
+  {
+    "Material": "Al2O3(Alumina)",
+    "Reference": "Dawson (1966) cutoff",
+    "DeltaMax": 6.5753,
+    "Emax": 0.5915,
+    "RC1": 0.4978,
+    "RExp1": 0.7361,
+    "RC2": 1,
+    "RExp2": 1.7132
+  },
+  {
+    "Material": "Al2O3(Alumina)",
+    "Reference": "USU (2007)",
+    "DeltaMax": 3.1397,
+    "Emax": 1.0817,
+    "RC1": 1.0086,
+    "RExp1": 0.8436,
+    "RC2": 1,
+    "RExp2": 2.2915
+  },
+  {
+    "Material": "Al2O3(Sapphire gem grade)",
+    "Reference": "Dawson (1966)",
+    "DeltaMax": 8.0777,
+    "Emax": 0.5583,
+    "RC1": 0.2815,
+    "RExp1": 0.7481,
+    "RC2": 1,
+    "RExp2": 1.6512
+  },
+  {
+    "Material": "Al2O3(Sapphire gem grade)",
+    "Reference": "USU (2006)",
+    "DeltaMax": 1.0752,
+    "Emax": 0.253,
+    "RC1": 0.3378,
+    "RExp1": 0.7481,
+    "RC2": 1,
+    "RExp2": 1.2056
+  },
+  {
+    "Material": "Al2O3(Sapphire gem grade)",
+    "Reference": "Christensen (2017)",
+    "DeltaMax": 4.0927,
+    "Emax": 0.5337,
+    "RC1": 1.0086,
+    "RExp1": 0.5702,
+    "RC2": 1,
+    "RExp2": 1.7506
+  },
+  {
+    "Material": "Al2O3(Unpolished)",
+    "Reference": "Dawson (1966)",
+    "DeltaMax": 6.622,
+    "Emax": 0.5574,
+    "RC1": 1.3683,
+    "RExp1": 0.6535,
+    "RC2": 1,
+    "RExp2": 1.8679
+  },
+  {
+    "Material": "Aluminum Beryllium AlBe",
+    "Reference": "Arifov (1971)",
+    "DeltaMax": 4.3225,
+    "Emax": 0.5263,
+    "RC1": 0.1448,
+    "RExp1": 0.3864,
+    "RC2": 1,
+    "RExp2": 3.0815
+  },
+  {
+    "Material": "Ammonia Ice (Frozen NH3)",
+    "Reference": "Suszcynsky (1992)",
+    "DeltaMax": 0.8011,
+    "Emax": 1.3413,
+    "RC1": 0.1025,
+    "RExp1": 0.3864,
+    "RC2": 1,
+    "RExp2": 1.8067
+  },
+  {
+    "Material": "Anthracene (C14H10)",
+    "Reference": "Martsinovskaya (1965)",
+    "DeltaMax": 1.4217,
+    "Emax": 0.3728,
+    "RC1": 0.8331,
+    "RExp1": 0.617,
+    "RC2": 1,
+    "RExp2": 1.8509
+  },
+  {
+    "Material": "Boron Nitride (BN)",
+    "Reference": "USU, 2003",
+    "DeltaMax": 1.488,
+    "Emax": 0.3063,
+    "RC1": 0.8817,
+    "RExp1": 0.529,
+    "RC2": 1,
+    "RExp2": 1.3726
+  },
+  {
+    "Material": "Boron Nitride (BN)",
+    "Reference": "USU, Sienna",
+    "DeltaMax": 1.2428,
+    "Emax": 0.2063,
+    "RC1": 1.0849,
+    "RExp1": 0.7967,
+    "RC2": 1,
+    "RExp2": 1.3008
+  },
+  {
+    "Material": "Carbon Dioxide (\"Dry\") ice",
+    "Reference": "Suszcynsky (1992)",
+    "DeltaMax": 0.7792,
+    "Emax": 0.2149,
+    "RC1": 0.3113,
+    "RExp1": 0.8144,
+    "RC2": 1,
+    "RExp2": 1.4816
+  },
+  {
+    "Material": "Chromium Dioxide (CrO2)",
+    "Reference": "Sudarshan (1976)",
+    "DeltaMax": 0.9797,
+    "Emax": 0.6216,
+    "RC1": 0.3736,
+    "RExp1": 0.8144,
+    "RC2": 1,
+    "RExp2": 1.6193
+  },
+  {
+    "Material": "Coat725 (wafer coat)",
+    "Reference": "Joy (1996)",
+    "DeltaMax": 2.4936,
+    "Emax": 0.2646,
+    "RC1": 0.3864,
+    "RExp1": 1.1402,
+    "RC2": 1,
+    "RExp2": 1.6476
+  },
+  {
+    "Material": "Copper Dioxide Cu2O",
+    "Reference": "Sudarshan (1976)",
+    "DeltaMax": 1.2247,
+    "Emax": 0.5023,
+    "RC1": 0.2756,
+    "RExp1": 0.4862,
+    "RC2": 1,
+    "RExp2": 1.1788
+  },
+  {
+    "Material": "Diamond (CVD diamond activated with CsI)",
+    "Reference": "Mearini (1995)",
+    "DeltaMax": 244.4203,
+    "Emax": 10.6427,
+    "RC1": 6.5156,
+    "RExp1": 0.6516,
+    "RC2": 1,
+    "RExp2": 2.4355
+  },
+  {
+    "Material": "Diffusion pump oil DC-705",
+    "Reference": "Ishikawa (1968)",
+    "DeltaMax": 1.8612,
+    "Emax": 0.1266,
+    "RC1": 0.3876,
+    "RExp1": 0.504,
+    "RC2": 1,
+    "RExp2": 1.8431
+  },
+  {
+    "Material": "Di-Phenyl (C12H10)",
+    "Reference": "Martsinovskaya (1965)",
+    "DeltaMax": 1.55,
+    "Emax": 0.4,
+    "RC1": 0.7977,
+    "RExp1": 0.1691,
+    "RC2": 1,
+    "RExp2": 1.7229
+  },
+  {
+    "Material": "Fosterite (Mg2SiO4)",
+    "Reference": "Dawson (1966) cutoff",
+    "DeltaMax": 4.5924,
+    "Emax": 0.5,
+    "RC1": 1.2669,
+    "RExp1": 0.4801,
+    "RC2": 1,
+    "RExp2": 1.6016
+  },
+  {
+    "Material": "Ge PI",
+    "Reference": "USU 2001",
+    "DeltaMax": 1.2497,
+    "Emax": 0.1672,
+    "RC1": 1.8404,
+    "RExp1": 0.9087,
+    "RC2": 1,
+    "RExp2": 1.944
+  },
+  {
+    "Material": "GE PI Al",
+    "Reference": "USU, 2011",
+    "DeltaMax": 0.9583,
+    "Emax": 0.2908,
+    "RC1": 1.755,
+    "RExp1": 0.7153,
+    "RC2": 1,
+    "RExp2": 1.7708
+  },
+  {
+    "Material": "Ice (H20)",
+    "Reference": "Suszcynsky (1992)",
+    "DeltaMax": 5.5597,
+    "Emax": 0.2027,
+    "RC1": 0,
+    "RExp1": 0.7153,
+    "RC2": 1,
+    "RExp2": 1.7018
+  },
+  {
+    "Material": "Inc Ag FeP",
+    "Reference": "SEE database, 2001",
+    "DeltaMax": 1.7882,
+    "Emax": 0.328,
+    "RC1": 0.8213,
+    "RExp1": 0.7454,
+    "RC2": 1,
+    "RExp2": 1.7098
+  },
+  {
+    "Material": "Indium Tin Oxide (ITO)",
+    "Reference": "Lin (2003)",
+    "DeltaMax": 2.5108,
+    "Emax": 0.4777,
+    "RC1": 1.1192,
+    "RExp1": 0.9456,
+    "RC2": 1,
+    "RExp2": 1.6433
+  },
+  {
+    "Material": "Indium Zinc Oxide (IZnO)",
+    "Reference": "Lin (2003)",
+    "DeltaMax": 2.6555,
+    "Emax": 0.4957,
+    "RC1": 0.1477,
+    "RExp1": 0.7309,
+    "RC2": 1,
+    "RExp2": 1.4773
+  },
+  {
+    "Material": "Interconnect Line Aluminum",
+    "Reference": "Joy (1996)",
+    "DeltaMax": 1.0719,
+    "Emax": 0.6987,
+    "RC1": 0.2346,
+    "RExp1": 0.7887,
+    "RC2": 1,
+    "RExp2": 1.5591
+  },
+  {
+    "Material": "ITO Kap Al",
+    "Reference": "USU 2001",
+    "DeltaMax": 0.8812,
+    "Emax": 0.2127,
+    "RC1": 0.9037,
+    "RExp1": 0.4675,
+    "RC2": 1,
+    "RExp2": 1.8113
+  },
+  {
+    "Material": "ITO Tef Ag INC",
+    "Reference": "USU 2001",
+    "DeltaMax": 0.8812,
+    "Emax": 0.2127,
+    "RC1": 0.956,
+    "RExp1": 0.4884,
+    "RC2": 1,
+    "RExp2": 1.5756
+  },
+  {
+    "Material": "Kapton",
+    "Reference": "Balcon 2012",
+    "DeltaMax": 1.7638,
+    "Emax": 0.1469,
+    "RC1": 0.2376,
+    "RExp1": 0.4716,
+    "RC2": 1,
+    "RExp2": 1.8123
+  },
+  {
+    "Material": "Kapton (Polymer sheet)",
+    "Reference": "Hazelton 1981",
+    "DeltaMax": 2.2995,
+    "Emax": 0.1017,
+    "RC1": 0.967,
+    "RExp1": 0.4952,
+    "RC2": 1,
+    "RExp2": 1.8355
+  },
+  {
+    "Material": "Kapton",
+    "Reference": "Kishimoto (1990)",
+    "DeltaMax": 2.2995,
+    "Emax": 0.1017,
+    "RC1": 0.5133,
+    "RExp1": 0.345,
+    "RC2": 1,
+    "RExp2": 1.822
+  },
+  {
+    "Material": "Kapton",
+    "Reference": "Levy 1985",
+    "DeltaMax": 2.0542,
+    "Emax": 0.1806,
+    "RC1": 0.4984,
+    "RExp1": 0.38,
+    "RC2": 1,
+    "RExp2": 2.0345
+  },
+  {
+    "Material": "Kapton",
+    "Reference": "USU (2017) round robin",
+    "DeltaMax": 1.8775,
+    "Emax": 0.1508,
+    "RC1": 0.0107,
+    "RExp1": 0.4,
+    "RC2": 1,
+    "RExp2": 1.5221
+  },
+  {
+    "Material": "Kapton",
+    "Reference": "Yong 1998",
+    "DeltaMax": 2,
+    "Emax": 0.2,
+    "RC1": 0.2538,
+    "RExp1": 0.6824,
+    "RC2": 1,
+    "RExp2": 1.9342
+  },
+  {
+    "Material": "Kapton (black)",
+    "Reference": "Dennison 2002",
+    "DeltaMax": "",
+    "Emax": "",
+    "RC1": "",
+    "RExp1": "",
+    "RC2": "",
+    "RExp2": ""
+  },
+  {
+    "Material": "Kapton (polymer sheet)",
+    "Reference": "Gair  (1974)",
+    "DeltaMax": 2.6343,
+    "Emax": 0.2265,
+    "RC1": 0.3085,
+    "RExp1": 1.0587,
+    "RC2": 1,
+    "RExp2": 1.9303
+  },
+  {
+    "Material": "Kapton (polymer sheet)",
+    "Reference": "Gross (1983)",
+    "DeltaMax": 1.8167,
+    "Emax": 0.195,
+    "RC1": 0.3876,
+    "RExp1": 1.0587,
+    "RC2": 1,
+    "RExp2": 1.5725
+  },
+  {
+    "Material": "Kapton (polymer sheet)",
+    "Reference": "Willis (1973)",
+    "DeltaMax": 2.1807,
+    "Emax": 0.1423,
+    "RC1": 0.6137,
+    "RExp1": 1.1786,
+    "RC2": 1,
+    "RExp2": 2.806
+  },
+  {
+    "Material": "Kapton (polymer sheet)",
+    "Reference": "Yang (1987)",
+    "DeltaMax": 1.641,
+    "Emax": 0.2787,
+    "RC1": 0.583,
+    "RExp1": 0.6,
+    "RC2": 1,
+    "RExp2": 2.0796
+  },
+  {
+    "Material": "Kapton Al(1)",
+    "Reference": "USU, 2011",
+    "DeltaMax": 0.7966,
+    "Emax": 0.1656,
+    "RC1": 0.7441,
+    "RExp1": 0.6237,
+    "RC2": 1,
+    "RExp2": 1.6377
+  },
+  {
+    "Material": "Kapton Al(2)",
+    "Reference": "USU, 2011",
+    "DeltaMax": 0.8939,
+    "Emax": 0.2625,
+    "RC1": 0.978,
+    "RExp1": 0.3887,
+    "RC2": 1,
+    "RExp2": 1.8064
+  },
+  {
+    "Material": "KCl (Potassium Chloride)",
+    "Reference": "Whetten (1964)",
+    "DeltaMax": 13.4,
+    "Emax": 1.7,
+    "RC1": 0.4322,
+    "RExp1": 0.588,
+    "RC2": 1,
+    "RExp2": 1.1715
+  },
+  {
+    "Material": "KTCNQ (Organic Conductor)",
+    "Reference": "Kishimoto (1990)",
+    "DeltaMax": 1.5534,
+    "Emax": 0.1879,
+    "RC1": 0.8171,
+    "RExp1": 0.7201,
+    "RC2": 1,
+    "RExp2": 1.9333
+  },
+  {
+    "Material": "Liquid Water (200 monolayers on copper)",
+    "Reference": "Hilleret (2000)",
+    "DeltaMax": 2.2711,
+    "Emax": 0.2361,
+    "RC1": 0.7908,
+    "RExp1": 0.6158,
+    "RC2": 1,
+    "RExp2": 1.6347
+  },
+  {
+    "Material": "Liquid Water (H2O)",
+    "Reference": "Thiel (1999)",
+    "DeltaMax": 1.4285,
+    "Emax": 1.9171,
+    "RC1": 0.0107,
+    "RExp1": 0.2395,
+    "RC2": 1,
+    "RExp2": 1.6205
+  },
+  {
+    "Material": "Lucite (Polymer Sheet) (Methyl methacrylate)",
+    "Reference": "Matskevich  (1959)",
+    "DeltaMax": 2.5032,
+    "Emax": 0.2794,
+    "RC1": 0.1,
+    "RExp1": 0.2395,
+    "RC2": 1,
+    "RExp2": 1.794
+  },
+  {
+    "Material": "Lucite (Polymer Sheet) (Methyl methacrylate)",
+    "Reference": "Willis (1973)",
+    "DeltaMax": 4.4689,
+    "Emax": 0.443,
+    "RC1": 0.064,
+    "RExp1": 0.4,
+    "RC2": 1,
+    "RExp2": 2.0197
+  },
+  {
+    "Material": "Magnesium Oxide (MgO)",
+    "Reference": "Ushio (1988) MGO deposited by EBE on to a cold silicon substrate",
+    "DeltaMax": 3.5038,
+    "Emax": 0.8853,
+    "RC1": 0.3056,
+    "RExp1": 0.6516,
+    "RC2": 1,
+    "RExp2": 1.6439
+  },
+  {
+    "Material": "Magnesium Oxide (MgO)",
+    "Reference": "Ushio (1988) MGO deposited by RF Sputtering",
+    "DeltaMax": 2.0679,
+    "Emax": 0.7041,
+    "RC1": 0.9267,
+    "RExp1": 0.7387,
+    "RC2": 1,
+    "RExp2": 2
+  },
+  {
+    "Material": "Magnesium Oxide (MgO)",
+    "Reference": "Whetten (1964)",
+    "DeltaMax": 24.0537,
+    "Emax": 1.1088,
+    "RC1": 0.2653,
+    "RExp1": 0.7757,
+    "RC2": 1,
+    "RExp2": 1.437
+  },
+  {
+    "Material": "Methanol ice (CH3OH)",
+    "Reference": "Suszcynsky (1992)",
+    "DeltaMax": 2.0922,
+    "Emax": 0.0829,
+    "RC1": 0,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.5135
+  },
+  {
+    "Material": "Mylar",
+    "Reference": "Gair  (1980)",
+    "DeltaMax": 2.8116,
+    "Emax": 0.2082,
+    "RC1": 0.0946,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.7973
+  },
+  {
+    "Material": "Mylar",
+    "Reference": "Gross (1983)",
+    "DeltaMax": 1.8149,
+    "Emax": 0.192,
+    "RC1": 0.165,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.5
+  },
+  {
+    "Material": "Mylar",
+    "Reference": "Willis (1973)",
+    "DeltaMax": 3.1648,
+    "Emax": 0.2316,
+    "RC1": 0.384,
+    "RExp1": 0.4,
+    "RC2": 1,
+    "RExp2": 2
+  },
+  {
+    "Material": "Mylar (Polymer sheet)",
+    "Reference": "Gair  (1980)",
+    "DeltaMax": 3.1279,
+    "Emax": 0.2194,
+    "RC1": 0.2172,
+    "RExp1": 0.42,
+    "RC2": 1,
+    "RExp2": 1.8698
+  },
+  {
+    "Material": "Mylar (Polymer sheet)",
+    "Reference": "Gross (1983)",
+    "DeltaMax": 1.8077,
+    "Emax": 0.1923,
+    "RC1": 0.234,
+    "RExp1": 0.591,
+    "RC2": 1,
+    "RExp2": 1.544
+  },
+  {
+    "Material": "Mylar (Polymer sheet)",
+    "Reference": "Willis (1973)",
+    "DeltaMax": 3.1351,
+    "Emax": 0.2045,
+    "RC1": 0.5698,
+    "RExp1": 0.4,
+    "RC2": 1,
+    "RExp2": 2.1276
+  },
+  {
+    "Material": "Napthalene (C10H8)",
+    "Reference": "Martsinovskaya (1965)",
+    "DeltaMax": 1.5708,
+    "Emax": 0.068,
+    "RC1": 0.9699,
+    "RExp1": 0.4,
+    "RC2": 1,
+    "RExp2": 1.2505
+  },
+  {
+    "Material": "Nickel Chromide NiCr",
+    "Reference": "Arifov (1971)",
+    "DeltaMax": 3.3998,
+    "Emax": 0.5067,
+    "RC1": 0.0393,
+    "RExp1": 0.4,
+    "RC2": 1,
+    "RExp2": 2.5939
+  },
+  {
+    "Material": "Nylon",
+    "Reference": "Kishimoto (1990)",
+    "DeltaMax": 2.5766,
+    "Emax": 0.245,
+    "RC1": 0.1551,
+    "RExp1": 0.5628,
+    "RC2": 1,
+    "RExp2": 1.7111
+  },
+  {
+    "Material": "Nylon Polymer solid)",
+    "Reference": "Kishimoto (1990)",
+    "DeltaMax": 2.5766,
+    "Emax": 0.245,
+    "RC1": 0.1551,
+    "RExp1": 0.5628,
+    "RC2": 1,
+    "RExp2": 1.7111
+  },
+  {
+    "Material": "OW102 Fosterite",
+    "Reference": "Dawson (1966)",
+    "DeltaMax": 4.7441,
+    "Emax": 0.5077,
+    "RC1": 0.3032,
+    "RExp1": 0.5628,
+    "RC2": 1,
+    "RExp2": 1.43
+  },
+  {
+    "Material": "OW133 Spinel Aluminum Fosterite",
+    "Reference": "Dawson (1966)",
+    "DeltaMax": 4.9591,
+    "Emax": 0.589,
+    "RC1": 0.4939,
+    "RExp1": 0.5628,
+    "RC2": 1,
+    "RExp2": 1.4081
+  },
+  {
+    "Material": "OW137 Fosterite",
+    "Reference": "Dawson (1966)",
+    "DeltaMax": 4.1474,
+    "Emax": 0.4442,
+    "RC1": 1.2225,
+    "RExp1": 0.5914,
+    "RC2": 1,
+    "RExp2": 1.7114
+  },
+  {
+    "Material": "PETEOS (organic)",
+    "Reference": "Joy (1996)",
+    "DeltaMax": 1.615,
+    "Emax": 0.4003,
+    "RC1": 0.4864,
+    "RExp1": 0.7068,
+    "RC2": 1,
+    "RExp2": 1.6637
+  },
+  {
+    "Material": "Phenanthrene",
+    "Reference": "Martsinovskaya (1965)",
+    "DeltaMax": 1.6306,
+    "Emax": 0.3288,
+    "RC1": 0,
+    "RExp1": 0.6,
+    "RC2": 1,
+    "RExp2": 1.6917
+  },
+  {
+    "Material": "Polyethylene",
+    "Reference": "Gair  (1980)",
+    "DeltaMax": 2.154,
+    "Emax": 0.4134,
+    "RC1": 0,
+    "RExp1": 0.6,
+    "RC2": 1,
+    "RExp2": 1.6917
+  },
+  {
+    "Material": "Polyethylene",
+    "Reference": "Moncrieff (1976)",
+    "DeltaMax": 2.9678,
+    "Emax": 0.3024,
+    "RC1": 0.2431,
+    "RExp1": 0.6694,
+    "RC2": 1,
+    "RExp2": 1.8019
+  },
+  {
+    "Material": "Polyethylene (polymer solid)",
+    "Reference": "Gair  (1980)",
+    "DeltaMax": 2.9979,
+    "Emax": 0.2233,
+    "RC1": 0.3772,
+    "RExp1": 0.8,
+    "RC2": 1,
+    "RExp2": 1.7815
+  },
+  {
+    "Material": "Polyethylene (polymer solid)",
+    "Reference": "Moncrieff (1976)",
+    "DeltaMax": 2.9462,
+    "Emax": 0.2946,
+    "RC1": 0.5852,
+    "RExp1": 0.6159,
+    "RC2": 1,
+    "RExp2": 1.9601
+  },
+  {
+    "Material": "Polyeurethane (Polymer solid)",
+    "Reference": "Kishimoto (1990)",
+    "DeltaMax": 2.5026,
+    "Emax": 0.2437,
+    "RC1": 0.675,
+    "RExp1": 0.8,
+    "RC2": 1,
+    "RExp2": 2
+  },
+  {
+    "Material": "Potassium Bromide (KBr)",
+    "Reference": "Whetten (1964)",
+    "DeltaMax": 13.5,
+    "Emax": 1.65,
+    "RC1": 0.2744,
+    "RExp1": 0.618,
+    "RC2": 1,
+    "RExp2": 1.1699
+  },
+  {
+    "Material": "Potassium Iodide (KI)",
+    "Reference": "Whetten (1962)",
+    "DeltaMax": 10.871,
+    "Emax": 1.2356,
+    "RC1": 0.4148,
+    "RExp1": 0.7136,
+    "RC2": 1,
+    "RExp2": 1.3469
+  },
+  {
+    "Material": "Resist (electron beam - PMMA)",
+    "Reference": "Joy (1996)",
+    "DeltaMax": 2.3784,
+    "Emax": 0.6684,
+    "RC1": 0.1,
+    "RExp1": 0.4,
+    "RC2": 1,
+    "RExp2": 1.5538
+  },
+  {
+    "Material": "Silicon Dioxide SiO2 (Steam formed)",
+    "Reference": "Dionne (1975)",
+    "DeltaMax": 1.4923,
+    "Emax": 0.1946,
+    "RC1": 0.4861,
+    "RExp1": 0.3791,
+    "RC2": 1,
+    "RExp2": 1.5048
+  },
+  {
+    "Material": "Silicon Dioxide SiO2 (Steam formed)",
+    "Reference": "Joy (1996)",
+    "DeltaMax": 1.578,
+    "Emax": 0.2043,
+    "RC1": 0.6203,
+    "RExp1": 0.3592,
+    "RC2": 1,
+    "RExp2": 1.4984
+  },
+  {
+    "Material": "SiO2",
+    "Reference": "Dionne (1975)",
+    "DeltaMax": 1.4927,
+    "Emax": 0.1935,
+    "RC1": 0.4737,
+    "RExp1": 0.3772,
+    "RC2": 1,
+    "RExp2": 1.4964
+  },
+  {
+    "Material": "SiO2",
+    "Reference": "Joy (1996)",
+    "DeltaMax": 1.6054,
+    "Emax": 0.1921,
+    "RC1": 0.6928,
+    "RExp1": 0.2161,
+    "RC2": 1,
+    "RExp2": 1.4732
+  },
+  {
+    "Material": "Sodium Bromide NaBr",
+    "Reference": "Whetten (1964)",
+    "DeltaMax": 22.474,
+    "Emax": 1.6043,
+    "RC1": 0.3639,
+    "RExp1": 0.1853,
+    "RC2": 1,
+    "RExp2": 1.3247
+  },
+  {
+    "Material": "Solar Sail",
+    "Reference": "USU, 2011",
+    "DeltaMax": 1.4397,
+    "Emax": 0.2847,
+    "RC1": 1,
+    "RExp1": 0.5092,
+    "RC2": 1,
+    "RExp2": 1.8946
+  },
+  {
+    "Material": "Stainless Steel",
+    "Reference": "Baglin 2000",
+    "DeltaMax": 1.6746,
+    "Emax": 0.2718,
+    "RC1": 0.9339,
+    "RExp1": 0.4802,
+    "RC2": 1,
+    "RExp2": 1.8032
+  },
+  {
+    "Material": "Stainless Steel",
+    "Reference": "Pivi 2003",
+    "DeltaMax": 1.9926,
+    "Emax": 0.2726,
+    "RC1": 0.753,
+    "RExp1": 0.4792,
+    "RC2": 1,
+    "RExp2": 1.4619
+  },
+  {
+    "Material": "Stainless Steel",
+    "Reference": "Ruzic 1982",
+    "DeltaMax": 1.1694,
+    "Emax": 0.4427,
+    "RC1": 0.753,
+    "RExp1": 0.4792,
+    "RC2": 1,
+    "RExp2": 1.676
+  },
+  {
+    "Material": "Stainless Steel",
+    "Reference": "Scholtz 1996",
+    "DeltaMax": 1.3079,
+    "Emax": 0.2839,
+    "RC1": 0.7723,
+    "RExp1": 0.4347,
+    "RC2": 1,
+    "RExp2": 1.5
+  },
+  {
+    "Material": "Stainless Steel",
+    "Reference": "Valizadeh 2014",
+    "DeltaMax": 2.2439,
+    "Emax": 0.2598,
+    "RC1": 0.7723,
+    "RExp1": 0.4347,
+    "RC2": 1,
+    "RExp2": 1.5713
+  },
+  {
+    "Material": "Stainless Steel",
+    "Reference": "Valizadeh 2016",
+    "DeltaMax": 1.0986,
+    "Emax": 0.5168,
+    "RC1": 0.6128,
+    "RExp1": 0.4347,
+    "RC2": 1,
+    "RExp2": 1.2183
+  },
+  {
+    "Material": "Tantalum Carbide (TaC)",
+    "Reference": "Thomas (1969)",
+    "DeltaMax": 0.8702,
+    "Emax": 0.3321,
+    "RC1": 0.143,
+    "RExp1": 0.3657,
+    "RC2": 1,
+    "RExp2": 1.5894
+  },
+  {
+    "Material": "TCNQ (Organic Conductor)",
+    "Reference": "Kishimoto (1990)",
+    "DeltaMax": 1.0346,
+    "Emax": 0.2247,
+    "RC1": 0.5607,
+    "RExp1": 0.4012,
+    "RC2": 1,
+    "RExp2": 1.476
+  },
+  {
+    "Material": "Teflon (FEP)",
+    "Reference": "Gross (1983)",
+    "DeltaMax": 1.8981,
+    "Emax": 0.2763,
+    "RC1": 0.5273,
+    "RExp1": 0.2694,
+    "RC2": 1,
+    "RExp2": 1.684
+  },
+  {
+    "Material": "Teflon (FEP)",
+    "Reference": "Hazelton (1981)",
+    "DeltaMax": 2.518,
+    "Emax": 0.2993,
+    "RC1": 0.5273,
+    "RExp1": 0.5,
+    "RC2": 1,
+    "RExp2": 1.7967
+  },
+  {
+    "Material": "Teflon (PTFE)",
+    "Reference": "Willis (1971)",
+    "DeltaMax": 3.0535,
+    "Emax": 0.3157,
+    "RC1": 0.7168,
+    "RExp1": 0.5895,
+    "RC2": 1,
+    "RExp2": 1.9615
+  },
+  {
+    "Material": "Teflon (Unknown)",
+    "Reference": "Balcon (2012)",
+    "DeltaMax": 2.2577,
+    "Emax": 0.361,
+    "RC1": 1.1676,
+    "RExp1": 0.56,
+    "RC2": 1,
+    "RExp2": 1.9311
+  },
+  {
+    "Material": "Teflon (Unknown)",
+    "Reference": "Yang (1987)",
+    "DeltaMax": 1.927,
+    "Emax": 0.5469,
+    "RC1": 0.1407,
+    "RExp1": 0.8542,
+    "RC2": 1,
+    "RExp2": 1.7039
+  },
+  {
+    "Material": "Titanium Carbide TiC",
+    "Reference": "Thomas (1969)",
+    "DeltaMax": 1.031,
+    "Emax": 0.408,
+    "RC1": 0.2619,
+    "RExp1": 0.5384,
+    "RC2": 1,
+    "RExp2": 1.3271
+  },
+  {
+    "Material": "Titanium Nitride (TiN)",
+    "Reference": "Garwin 14 nm  (1987)",
+    "DeltaMax": 1.0272,
+    "Emax": 0.2524,
+    "RC1": 0.5037,
+    "RExp1": 0.4643,
+    "RC2": 1,
+    "RExp2": 1.4985
+  },
+  {
+    "Material": "Titanium Nitride (TiN)",
+    "Reference": "Garwin e sputtered 1987",
+    "DeltaMax": 1.2521,
+    "Emax": 0.2218,
+    "RC1": 0.6129,
+    "RExp1": 0.419,
+    "RC2": 1,
+    "RExp2": 1.5777
+  },
+  {
+    "Material": "Titanium Nitride (TiN)",
+    "Reference": "Garwin Thin oxide layer  (1987)",
+    "DeltaMax": 1.4742,
+    "Emax": 0.219,
+    "RC1": 0.6141,
+    "RExp1": 0.4,
+    "RC2": 1,
+    "RExp2": 1.6
+  },
+  {
+    "Material": "Titanium Nitride (TiN)",
+    "Reference": "Hilleret (2000)",
+    "DeltaMax": 1.5753,
+    "Emax": 0.4769,
+    "RC1": 1.324,
+    "RExp1": 0.4802,
+    "RC2": 1,
+    "RExp2": 1.5017
+  },
+  {
+    "Material": "Titanium Nitride (TiN)",
+    "Reference": "Nyaiesh TEY annealed (1986)",
+    "DeltaMax": 1.2372,
+    "Emax": 0.2958,
+    "RC1": 0.8823,
+    "RExp1": 0.4333,
+    "RC2": 1,
+    "RExp2": 1.5842
+  },
+  {
+    "Material": "Titanium Nitride (TiN)",
+    "Reference": "Nyaiesh TEY oxidized (1986)",
+    "DeltaMax": 1.2552,
+    "Emax": 0.2883,
+    "RC1": 0.9383,
+    "RExp1": 0.5005,
+    "RC2": 1,
+    "RExp2": 1.5928
+  },
+  {
+    "Material": "Titanium Nitride (TiN)",
+    "Reference": "USU (2017)",
+    "DeltaMax": 2.4131,
+    "Emax": 0.2469,
+    "RC1": 0.9096,
+    "RExp1": 0.5038,
+    "RC2": 1,
+    "RExp2": 1.8103
+  },
+  {
+    "Material": "Vanadium Pentoxide V2O5",
+    "Reference": "Flinn (1980)",
+    "DeltaMax": 1.1931,
+    "Emax": 0.3161,
+    "RC1": 1.0941,
+    "RExp1": 0.4792,
+    "RC2": 1,
+    "RExp2": 1.6417
+  },
+  {
+    "Material": "Xylene (Organic Solid)",
+    "Reference": "Kishimoto (1990)",
+    "DeltaMax": 1.801,
+    "Emax": 0.153,
+    "RC1": 0.4356,
+    "RExp1": 0.4142,
+    "RC2": 1,
+    "RExp2": 1.7816
+  },
+  {
+    "Material": "Zirconium Carbide ZrC",
+    "Reference": "Thomas (1969)",
+    "DeltaMax": 1.2617,
+    "Emax": 0.3226,
+    "RC1": 0.5459,
+    "RExp1": 0.5035,
+    "RC2": 1,
+    "RExp2": 1.5255
+  },
+  {
+    "Material": "Kapton",
+    "Reference": "Sternglass (1954)",
+    "DeltaMax": 1.2718,
+    "Emax": 0.1988,
+    "RC1": 0.0262,
+    "RExp1": 0.2395,
+    "RC2": 1,
+    "RExp2": 4.5512
+  },
+  {
+    "Material": "Kapton",
+    "Reference": "Whipple (1981)",
+    "DeltaMax": 1.4505,
+    "Emax": 0.2323,
+    "RC1": 0.1778,
+    "RExp1": 0.0184,
+    "RC2": 1,
+    "RExp2": 5.1368
+  },
+  {
+    "Material": "Kapton",
+    "Reference": "Leung (1980)",
+    "DeltaMax": 2.0989,
+    "Emax": 0.2437,
+    "RC1": 3.5067,
+    "RExp1": 1.2375,
+    "RC2": 1,
+    "RExp2": 3.1043
+  },
+  {
+    "Material": "Kapton HN",
+    "Reference": "Hoffman (2012)",
+    "DeltaMax": 2.4822,
+    "Emax": 0.1914,
+    "RC1": 0.2346,
+    "RExp1": 0.591,
+    "RC2": 1,
+    "RExp2": 2
+  },
+  {
+    "Material": "Kapton",
+    "Reference": "Hoffman (2010)",
+    "DeltaMax": 2.0475,
+    "Emax": 0.1863,
+    "RC1": 0.3466,
+    "RExp1": 0.5895,
+    "RC2": 1,
+    "RExp2": 1.9669
+  },
+  {
+    "Material": "Kapton",
+    "Reference": "Frooninckx (1991)",
+    "DeltaMax": 1.753,
+    "Emax": 0.1677,
+    "RC1": 0.2318,
+    "RExp1": 0.1434,
+    "RC2": 1,
+    "RExp2": 2.755
   }
 ]
